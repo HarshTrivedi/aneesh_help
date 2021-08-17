@@ -161,7 +161,7 @@ def main():
     print(f"\n There are {len(matching_tuples)} matches.")
     with open("matches.txt", "w") as file:
         for matching_tuple in matching_tuples:
-            file.write("\t".join(matching_tuple))
+            file.write("\t".join(matching_tuple)+"\n")
 
 
 if __name__ == '__main__':
