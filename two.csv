@@ -1,0 +1,2023 @@
+, State, County, Local_Co_Name
+0,ALASKA,Anchorage,GCI Cable Inc
+1,ALASKA,Anchorage,GCI Cable Inc
+2,ALASKA,Anchorage,GCI Cable Inc
+3,ALASKA,Fairbanks North Star,GCI Cable Inc
+4,ALASKA,Fairbanks North Star,GCI Cable Inc
+5,ALASKA,Fairbanks North Star,GCI Cable Inc
+6,ALASKA,Matanuska-Susitna,GCI Cable Inc
+7,ALASKA,Matanuska-Susitna,GCI Cable Inc
+8,ALASKA,Matanuska-Susitna,GCI Cable Inc
+9,ALASKA,Petersburg,GCI Cable Inc
+10,ALASKA,Petersburg,GCI Cable Inc
+11,ALASKA,Petersburg,GCI Cable Inc
+12,ALASKA,Haines,Skagway Cable TV
+13,ALASKA,Yukon-Koyukuk,Supervision Inc
+14,ALABAMA,Jefferson,Bright House Networks
+15,ALABAMA,Jefferson,Bright House Networks
+16,ALABAMA,Jefferson,Bright House Networks
+17,ALABAMA,Jefferson,Bright House Networks
+18,ALABAMA,Jefferson,Bright House Networks
+19,ALABAMA,Mobile,Comcast Cable
+20,ALABAMA,Mobile,Comcast Cable
+21,ALABAMA,Mobile,Comcast Cable
+22,ALABAMA,Montgomery,Charter Communications
+23,ALABAMA,Montgomery,Charter Communications
+24,ALABAMA,Calhoun,Cable One
+25,ALABAMA,Calhoun,Cable One
+26,ALABAMA,Calhoun,Cable One
+27,ALABAMA,Russell,Phenix Cable TV
+28,ALABAMA,Russell,Phenix Cable TV
+29,ALABAMA,Elmore,Bright House Networks
+30,ALABAMA,Elmore,Bright House Networks
+31,ALABAMA,Elmore,Bright House Networks
+32,ALABAMA,Elmore,Bright House Networks
+33,ALABAMA,Mobile,Mediacom
+34,ALABAMA,Mobile,Mediacom
+35,ALABAMA,Randolph,Charter Communications
+36,ALABAMA,Randolph,Charter Communications
+37,ALABAMA,Walker,Charter Communications
+38,ALABAMA,Walker,Charter Communications
+39,ALABAMA,Walker,Charter Communications
+40,ALABAMA,Barbour,Bright House Networks
+41,ALABAMA,Barbour,Bright House Networks
+42,ALABAMA,Barbour,Bright House Networks
+43,ALABAMA,DeKalb,Charter Communications
+44,ALABAMA,Covington,TV Cable Company of Andalusia
+45,ALABAMA,Blount,Otelco
+46,ALABAMA,Blount,Otelco
+47,ALABAMA,Blount,Otelco
+48,ALABAMA,Covington,Opp Cablevision
+49,ALABAMA,Covington,Opp Cablevision
+50,ALABAMA,Butler,Bright House Networks
+51,ALABAMA,Butler,Bright House Networks
+52,ALABAMA,Butler,Bright House Networks
+53,ALABAMA,Butler,Bright House Networks
+54,ALABAMA,Sumter,Mediacom
+55,ALABAMA,Sumter,Mediacom
+56,ALABAMA,Marengo,Demopolis CATV Co
+57,ALABAMA,Marion,West Alabama TV Cable Co. Inc
+58,ALABAMA,Marion,West Alabama TV Cable Co. Inc
+59,ALABAMA,Marion,West Alabama TV Cable Co. Inc
+60,ALABAMA,Marion,West Alabama TV Cable Co. Inc
+61,ALABAMA,Lamar,Charter Communications
+62,ALABAMA,Lamar,Charter Communications
+63,ALABAMA,Hale,Mediacom
+64,ALABAMA,Hale,Mediacom
+65,ALABAMA,Monroe,Mediacom
+66,ALABAMA,Monroe,Mediacom
+67,ALABAMA,Clarke,Pine Belt Broadband
+68,ALABAMA,Clarke,Pine Belt Broadband
+69,ALABAMA,Randolph,Charter Communications
+70,ALABAMA,Randolph,Charter Communications
+71,ALABAMA,Choctaw,Pine Belt Broadband
+72,ALABAMA,Choctaw,Pine Belt Broadband
+73,ALABAMA,Tallapoosa,Charter Communications
+74,ALABAMA,Tallapoosa,Charter Communications
+75,ALABAMA,St. Clair,USA Communications
+76,ALABAMA,St. Clair,USA Communications
+77,ALABAMA,St. Clair,USA Communications
+78,ALABAMA,Chambers,"WOW! Internet, Cable & Phone"
+79,ALABAMA,Chambers,"WOW! Internet, Cable & Phone"
+80,ALABAMA,Chambers,"WOW! Internet, Cable & Phone"
+81,ALABAMA,Jackson,Scottsboro Electric Power Board
+82,ALABAMA,Jackson,Scottsboro Electric Power Board
+83,ALABAMA,Jackson,Scottsboro Electric Power Board
+84,ARKANSAS,Garland,Resort TV Cable Co. Inc
+85,ARKANSAS,Garland,Resort TV Cable Co. Inc
+86,ARKANSAS,Garland,Resort TV Cable Co. Inc
+87,ARKANSAS,Jefferson,Pine Bluff Cable TV Co. Inc
+88,ARKANSAS,Jefferson,Pine Bluff Cable TV Co. Inc
+89,ARKANSAS,Jefferson,Pine Bluff Cable TV Co. Inc
+90,ARKANSAS,Craighead,Suddenlink Communications
+91,ARKANSAS,Craighead,Suddenlink Communications
+92,ARKANSAS,Craighead,Suddenlink Communications
+93,ARKANSAS,Baxter,Suddenlink Communications
+94,ARKANSAS,Baxter,Suddenlink Communications
+95,ARKANSAS,Baxter,Suddenlink Communications
+96,ARKANSAS,Pope,Suddenlink Communications
+97,ARKANSAS,Pope,Suddenlink Communications
+98,ARKANSAS,Pope,Suddenlink Communications
+99,ARKANSAS,Greene,Paragould City Light & Water Commission
+100,ARKANSAS,Greene,Paragould City Light & Water Commission
+101,ARKANSAS,Greene,Paragould City Light & Water Commission
+102,ARKANSAS,Greene,Paragould City Light & Water Commission
+103,ARKANSAS,White,White County Cable TV
+104,ARKANSAS,White,White County Cable TV
+105,ARKANSAS,Arkansas,Suddenlink Communications
+106,ARKANSAS,Arkansas,Suddenlink Communications
+107,ARKANSAS,Arkansas,Suddenlink Communications
+108,ARKANSAS,Hempstead,Hope Community TV
+109,ARKANSAS,Hempstead,Hope Community TV
+110,ARKANSAS,Hempstead,Hope Community TV
+111,ARKANSAS,Little River,NewWave Communications
+112,ARKANSAS,Little River,NewWave Communications
+113,ARKANSAS,Little River,NewWave Communications
+114,ARKANSAS,Johnson,Suddenlink Communications
+115,ARKANSAS,Johnson,Suddenlink Communications
+116,ARKANSAS,Johnson,Suddenlink Communications
+117,ARKANSAS,Logan,Suddenlink Communications
+118,ARKANSAS,Logan,Suddenlink Communications
+119,ARKANSAS,Logan,Suddenlink Communications
+120,ARKANSAS,Poinsett,Ritter Communications
+121,ARKANSAS,Poinsett,Ritter Communications
+122,ARKANSAS,Poinsett,Ritter Communications
+123,ARKANSAS,Faulkner,Alliance Communications
+124,ARKANSAS,Faulkner,Alliance Communications
+125,ARKANSAS,Clark,Suddenlink Communications
+126,ARKANSAS,Clark,Suddenlink Communications
+127,ARKANSAS,Clark,Suddenlink Communications
+128,ARKANSAS,Clark,Suddenlink Communications
+129,ARKANSAS,Clark,Suddenlink Communications
+130,ARKANSAS,Washington,Cox Communications
+131,ARKANSAS,Washington,Cox Communications
+132,ARKANSAS,Independence,Indco Cable TV
+133,ARKANSAS,Union,Suddenlink Communications
+134,ARKANSAS,Union,Suddenlink Communications
+135,ARKANSAS,Union,Suddenlink Communications
+136,ARKANSAS,Garland,Suddenlink Communications
+137,ARKANSAS,Garland,Suddenlink Communications
+138,ARIZONA,Maricopa,Cox Communications
+139,ARIZONA,Maricopa,Cox Communications
+140,ARIZONA,Maricopa,Cox Communications
+141,ARIZONA,Maricopa,Cox Communications
+142,ARIZONA,Yuma,Time Warner Cable
+143,ARIZONA,Yuma,Time Warner Cable
+144,ARIZONA,Yuma,Time Warner Cable
+145,ARIZONA,Yuma,Time Warner Cable
+146,ARIZONA,Cochise,Cox Communications
+147,ARIZONA,Cochise,Cox Communications
+148,ARIZONA,Cochise,Cox Communications
+149,ARIZONA,Yavapai,Cable One
+150,ARIZONA,Yavapai,Cable One
+151,ARIZONA,Pinal,Mediacom
+152,ARIZONA,Pinal,Mediacom
+153,ARIZONA,Mohave,Suddenlink Communications
+154,ARIZONA,Mohave,Suddenlink Communications
+155,ARIZONA,Mohave,Suddenlink Communications
+156,ARIZONA,Mohave,Suddenlink Communications
+157,ARIZONA,Coconino,Suddenlink Communications
+158,ARIZONA,Coconino,Suddenlink Communications
+159,ARIZONA,Navajo,Cable One
+160,ARIZONA,Navajo,Cable One
+161,ARIZONA,Navajo,Cable One
+162,ARIZONA,Mohave,Suddenlink Communications
+163,ARIZONA,Mohave,Suddenlink Communications
+164,ARIZONA,La Paz,Suddenlink Communications
+165,ARIZONA,La Paz,Suddenlink Communications
+166,ARIZONA,Gila,Cable One
+167,ARIZONA,Gila,Cable One
+168,ARIZONA,Graham,Cable One
+169,ARIZONA,Graham,Cable One
+170,ARIZONA,Gila,Suddenlink Communications
+171,ARIZONA,Gila,Suddenlink Communications
+172,ARIZONA,Coconino,Suddenlink Communications
+173,ARIZONA,Coconino,Suddenlink Communications
+174,ARIZONA,Cochise,Cable One
+175,ARIZONA,Cochise,Cable One
+176,ARIZONA,Coconino,Cable One
+177,ARIZONA,Coconino,Cable One
+178,ARIZONA,Maricopa,Orbitel Communications
+179,ARIZONA,Maricopa,Orbitel Communications
+180,ARIZONA,Maricopa,Orbitel Communications
+181,ARIZONA,Pima,Orbitel Communications
+182,ARIZONA,Pima,Orbitel Communications
+183,ARIZONA,Pima,Orbitel Communications
+184,ARIZONA,Pinal,Orbitel Communications
+185,ARIZONA,Pinal,Orbitel Communications
+186,ARIZONA,Pinal,Orbitel Communications
+187,CALIFORNIA,San Diego,Cox Communications
+188,CALIFORNIA,San Diego,Cox Communications
+189,CALIFORNIA,San Diego,Cox Communications
+190,CALIFORNIA,Santa Clara,Comcast Cable
+191,CALIFORNIA,Santa Clara,Comcast Cable
+192,CALIFORNIA,Santa Clara,Comcast Cable
+193,CALIFORNIA,Los Angeles,Charter Communications
+194,CALIFORNIA,Los Angeles,Charter Communications
+195,CALIFORNIA,San Diego,Time Warner Cable
+196,CALIFORNIA,San Diego,Time Warner Cable
+197,CALIFORNIA,San Diego,Time Warner Cable
+198,CALIFORNIA,Fresno,Comcast Cable
+199,CALIFORNIA,Fresno,Comcast Cable
+200,CALIFORNIA,Fresno,Comcast Cable
+201,CALIFORNIA,Orange,Cox Communications
+202,CALIFORNIA,Orange,Cox Communications
+203,CALIFORNIA,Orange,Cox Communications
+204,CALIFORNIA,Contra Costa,Comcast Cable
+205,CALIFORNIA,Contra Costa,Comcast Cable
+206,CALIFORNIA,Contra Costa,Comcast Cable
+207,CALIFORNIA,Los Angeles,Charter Communications
+208,CALIFORNIA,Los Angeles,Charter Communications
+209,CALIFORNIA,Kern-West,Bright House Networks
+210,CALIFORNIA,Kern-West,Bright House Networks
+211,CALIFORNIA,Kern-West,Bright House Networks
+212,CALIFORNIA,San Joaquin,Comcast Cable
+213,CALIFORNIA,San Joaquin,Comcast Cable
+214,CALIFORNIA,San Joaquin,Comcast Cable
+215,CALIFORNIA,Monterey,Comcast Cable
+216,CALIFORNIA,Monterey,Comcast Cable
+217,CALIFORNIA,Monterey,Comcast Cable
+218,CALIFORNIA,Santa Barbara,Cox Communications
+219,CALIFORNIA,Santa Barbara,Cox Communications
+220,CALIFORNIA,Santa Barbara,Cox Communications
+221,CALIFORNIA,Napa,Comcast Cable
+222,CALIFORNIA,Napa,Comcast Cable
+223,CALIFORNIA,Napa,Comcast Cable
+224,CALIFORNIA,Stanislaus,Comcast Cable
+225,CALIFORNIA,Stanislaus,Comcast Cable
+226,CALIFORNIA,Stanislaus,Comcast Cable
+227,CALIFORNIA,San Luis Obispo,Charter Communications
+228,CALIFORNIA,San Luis Obispo,Charter Communications
+229,CALIFORNIA,Humboldt,Suddenlink Communications
+230,CALIFORNIA,Humboldt,Suddenlink Communications
+231,CALIFORNIA,Humboldt,Suddenlink Communications
+232,CALIFORNIA,Butte,Comcast Cable
+233,CALIFORNIA,Butte,Comcast Cable
+234,CALIFORNIA,Butte,Comcast Cable
+235,CALIFORNIA,Sutter,Comcast Cable
+236,CALIFORNIA,Sutter,Comcast Cable
+237,CALIFORNIA,Sutter,Comcast Cable
+238,CALIFORNIA,Merced,Comcast Cable
+239,CALIFORNIA,Merced,Comcast Cable
+240,CALIFORNIA,Stanislaus,Charter Communications
+241,CALIFORNIA,Contra Costa,Comcast Cable
+242,CALIFORNIA,Contra Costa,Comcast Cable
+243,CALIFORNIA,Contra Costa,Comcast Cable
+244,CALIFORNIA,Lake,Mediacom
+245,CALIFORNIA,Lake,Mediacom
+246,CALIFORNIA,Lake,Mediacom
+247,CALIFORNIA,El Dorado-West,Comcast Cable
+248,CALIFORNIA,El Dorado-West,Comcast Cable
+249,CALIFORNIA,El Dorado-West,Comcast Cable
+250,CALIFORNIA,Mendocino,Comcast Cable
+251,CALIFORNIA,Mendocino,Comcast Cable
+252,CALIFORNIA,Kern-East,Mediacom
+253,CALIFORNIA,Kern-East,Mediacom
+254,CALIFORNIA,Kern-East,Mediacom
+255,CALIFORNIA,Placer,Wave Broadband
+256,CALIFORNIA,Placer,Wave Broadband
+257,CALIFORNIA,Placer,Wave Broadband
+258,CALIFORNIA,Calaveras,Comcast Cable
+259,CALIFORNIA,Calaveras,Comcast Cable
+260,CALIFORNIA,Calaveras,Comcast Cable
+261,CALIFORNIA,San Mateo,City of San Bruno Municipal Cable TV
+262,CALIFORNIA,San Mateo,City of San Bruno Municipal Cable TV
+263,CALIFORNIA,San Mateo,City of San Bruno Municipal Cable TV
+264,CALIFORNIA,San Mateo,City of San Bruno Municipal Cable TV
+265,CALIFORNIA,San Mateo,City of San Bruno Municipal Cable TV
+266,CALIFORNIA,San Joaquin,Comcast Cable
+267,CALIFORNIA,San Joaquin,Comcast Cable
+268,CALIFORNIA,San Joaquin,Comcast Cable
+269,CALIFORNIA,Ventura,Charter Communications
+270,CALIFORNIA,Ventura,Charter Communications
+271,CALIFORNIA,Tuolumne,Comcast Cable
+272,CALIFORNIA,Tuolumne,Comcast Cable
+273,CALIFORNIA,Tuolumne,Comcast Cable
+274,CALIFORNIA,San Bernardino,Time Warner Cable
+275,CALIFORNIA,San Bernardino,Time Warner Cable
+276,CALIFORNIA,San Bernardino,Time Warner Cable
+277,CALIFORNIA,San Bernardino,Charter Communications
+278,CALIFORNIA,San Bernardino,Charter Communications
+279,CALIFORNIA,Kern,Mediacom
+280,CALIFORNIA,Kern,Mediacom
+281,CALIFORNIA,Kern,Mediacom
+282,CALIFORNIA,Riverside-West,Time Warner Cable
+283,CALIFORNIA,Riverside-West,Time Warner Cable
+284,CALIFORNIA,Riverside-West,Time Warner Cable
+285,CALIFORNIA,Stanislaus,Comcast Cable
+286,CALIFORNIA,Stanislaus,Comcast Cable
+287,CALIFORNIA,Stanislaus,Comcast Cable
+288,CALIFORNIA,Nevada,Suddenlink Communications
+289,CALIFORNIA,Nevada,Suddenlink Communications
+290,CALIFORNIA,Riverside-East,Suddenlink Communications
+291,CALIFORNIA,Riverside-East,Suddenlink Communications
+292,CALIFORNIA,Los Angeles,Catalina Cable TV Co.
+293,CALIFORNIA,Los Angeles,Catalina Cable TV Co.
+294,CALIFORNIA,Marin,Horizon Cable TV Inc
+295,CALIFORNIA,Marin,Horizon Cable TV Inc
+296,CALIFORNIA,Marin,Horizon Cable TV Inc
+297,CALIFORNIA,Amador,Volcano Vision
+298,CALIFORNIA,Amador,Volcano Vision
+299,CALIFORNIA,Amador,Volcano Vision
+300,CALIFORNIA,San Luis Obispo,San Simeon Community Cable Inc
+301,CALIFORNIA,Inyo,Suddenlink Communications
+302,CALIFORNIA,Inyo,Suddenlink Communications
+303,CALIFORNIA,Inyo,Suddenlink Communications
+304,CALIFORNIA,Inyo,Lone Pine TV Inc
+305,CALIFORNIA,Inyo,Lone Pine TV Inc
+306,CALIFORNIA,Inyo,Lone Pine TV Inc
+307,CALIFORNIA,Mono,Suddenlink Communications
+308,CALIFORNIA,Mono,Suddenlink Communications
+309,CALIFORNIA,Sonoma,Compass Digital Media
+310,CALIFORNIA,Riverside-West,Mediacom
+311,CALIFORNIA,Riverside-West,Mediacom
+312,CALIFORNIA,Riverside-West,Mediacom
+313,CALIFORNIA,Santa Barbara,Vandenberg Broadband
+314,CALIFORNIA,Santa Barbara,Vandenberg Broadband
+315,CALIFORNIA,Kern-East,Charter Communications
+316,CALIFORNIA,Kern-East,Charter Communications
+317,CALIFORNIA,San Francisco,Wave Broadband
+318,CALIFORNIA,San Francisco,Wave Broadband
+319,CALIFORNIA,San Francisco,Wave Broadband
+320,CALIFORNIA,Marin,Horizon Cable TV Inc
+321,CALIFORNIA,Contra Costa,Wave Broadband
+322,CALIFORNIA,Contra Costa,Wave Broadband
+323,CALIFORNIA,Contra Costa,Wave Broadband
+324,COLORADO,El Paso,Comcast Cable
+325,COLORADO,El Paso,Comcast Cable
+326,COLORADO,El Paso,Comcast Cable
+327,COLORADO,El Paso,Comcast Cable
+328,COLORADO,Pueblo,Comcast Cable
+329,COLORADO,Pueblo,Comcast Cable
+330,COLORADO,Pueblo,Comcast Cable
+331,COLORADO,Boulder,Comcast Cable
+332,COLORADO,Boulder,Comcast Cable
+333,COLORADO,Boulder,Comcast Cable
+334,COLORADO,Fremont,Charter Communications
+335,COLORADO,Fremont,Charter Communications
+336,COLORADO,Pitkin,Comcast Cable
+337,COLORADO,Pitkin,Comcast Cable
+338,COLORADO,Pitkin,Comcast Cable
+339,COLORADO,Larimer,Baja Broadband
+340,COLORADO,Larimer,Baja Broadband
+341,COLORADO,Larimer,Baja Broadband
+342,COLORADO,Montezuma,Baja Broadband
+343,COLORADO,Montezuma,Baja Broadband
+344,COLORADO,Montezuma,Baja Broadband
+345,COLORADO,Larimer,Baja Broadband
+346,COLORADO,Larimer,Baja Broadband
+347,COLORADO,Larimer,Baja Broadband
+348,COLORADO,Larimer,Baja Broadband
+349,COLORADO,La Plata,USA Communications
+350,COLORADO,El Paso,Peterson Broadband
+351,COLORADO,El Paso,Peterson Broadband
+352,COLORADO,Boulder,Lyons Communications
+353,COLORADO,Boulder,Lyons Communications
+354,COLORADO,Washington,Vyve Broadband
+355,COLORADO,Washington,Vyve Broadband
+356,COLORADO,Washington,Vyve Broadband
+357,COLORADO,Weld,K2 Communications
+358,COLORADO,Weld,K2 Communications
+359,CONNECTICUT,Fairfield,Cablevision
+360,CONNECTICUT,Fairfield,Cablevision
+361,CONNECTICUT,Fairfield,Cablevision
+362,CONNECTICUT,Fairfield,Cablevision
+363,CONNECTICUT,Fairfield,Cablevision
+364,CONNECTICUT,Fairfield,Cablevision
+365,CONNECTICUT,Hartford,Cox Communications
+366,CONNECTICUT,Hartford,Cox Communications
+367,CONNECTICUT,Hartford,Cox Communications
+368,CONNECTICUT,Hartford,Cox Communications
+369,CONNECTICUT,Hartford,Cox Communications
+370,CONNECTICUT,New Haven,Comcast Cable
+371,CONNECTICUT,New Haven,Comcast Cable
+372,CONNECTICUT,New Haven,Comcast Cable
+373,CONNECTICUT,New London,Atlantic Broadband
+374,CONNECTICUT,New London,Atlantic Broadband
+375,CONNECTICUT,New London,Atlantic Broadband
+376,CONNECTICUT,New London,Atlantic Broadband
+377,CONNECTICUT,New Haven,Cox Communications
+378,CONNECTICUT,New Haven,Cox Communications
+379,CONNECTICUT,New Haven,Cox Communications
+380,CONNECTICUT,New Haven,Cox Communications
+381,CONNECTICUT,New Haven,Cox Communications
+382,CONNECTICUT,Hartford,Cox Communications
+383,CONNECTICUT,Hartford,Cox Communications
+384,CONNECTICUT,Hartford,Cox Communications
+385,CONNECTICUT,Hartford,Cox Communications
+386,CONNECTICUT,Hartford,Cox Communications
+387,CONNECTICUT,Fairfield,Comcast Cable
+388,CONNECTICUT,Fairfield,Comcast Cable
+389,CONNECTICUT,Fairfield,Comcast Cable
+390,CONNECTICUT,Tolland,Comcast Cable
+391,CONNECTICUT,Tolland,Comcast Cable
+392,CONNECTICUT,Tolland,Comcast Cable
+393,DELAWARE,Sussex,Mediacom
+394,DELAWARE,Sussex,Mediacom
+395,DELAWARE,Sussex,Comcast Cable
+396,DELAWARE,Sussex,Comcast Cable
+397,DELAWARE,Sussex,Comcast Cable
+398,DELAWARE,Kent,Comcast Cable
+399,DELAWARE,Kent,Comcast Cable
+400,DELAWARE,Kent,Comcast Cable
+401,DELAWARE,New Castle,Comcast Cable
+402,DELAWARE,New Castle,Comcast Cable
+403,DELAWARE,New Castle,Comcast Cable
+404,FLORIDA,Orange,Bright House Networks
+405,FLORIDA,Orange,Bright House Networks
+406,FLORIDA,Duval,Comcast Cable
+407,FLORIDA,Duval,Comcast Cable
+408,FLORIDA,Duval,Comcast Cable
+409,FLORIDA,Hillsborough,Bright House Networks
+410,FLORIDA,Hillsborough,Bright House Networks
+411,FLORIDA,Hillsborough,Bright House Networks
+412,FLORIDA,Hillsborough,Bright House Networks
+413,FLORIDA,Sarasota,Comcast Cable
+414,FLORIDA,Sarasota,Comcast Cable
+415,FLORIDA,Sarasota,Comcast Cable
+416,FLORIDA,Escambia,Cox Communications
+417,FLORIDA,Escambia,Cox Communications
+418,FLORIDA,Escambia,Cox Communications
+419,FLORIDA,Miami-Dade,Atlantic Broadband
+420,FLORIDA,Miami-Dade,Atlantic Broadband
+421,FLORIDA,Miami-Dade,Atlantic Broadband
+422,FLORIDA,Okaloosa,Cox Communications
+423,FLORIDA,Okaloosa,Cox Communications
+424,FLORIDA,Okaloosa,Cox Communications
+425,FLORIDA,Okaloosa,Cox Communications
+426,FLORIDA,Alachua,Cox Communications
+427,FLORIDA,Alachua,Cox Communications
+428,FLORIDA,Alachua,Cox Communications
+429,FLORIDA,Alachua,Cox Communications
+430,FLORIDA,Alachua,Cox Communications
+431,FLORIDA,Broward,Advanced Cable Communications
+432,FLORIDA,Broward,Advanced Cable Communications
+433,FLORIDA,Broward,Advanced Cable Communications
+434,FLORIDA,Broward,Advanced Cable Communications
+435,FLORIDA,Santa Rosa,Mediacom
+436,FLORIDA,Santa Rosa,Mediacom
+437,FLORIDA,Okaloosa,Valparaiso Communications System
+438,FLORIDA,Okaloosa,Valparaiso Communications System
+439,FLORIDA,Walton,Mediacom
+440,FLORIDA,Walton,Mediacom
+441,FLORIDA,Leon,Comcast Cable
+442,FLORIDA,Leon,Comcast Cable
+443,GEORGIA,Bibb,Cox Communications
+444,GEORGIA,Bibb,Cox Communications
+445,GEORGIA,Bibb,Cox Communications
+446,GEORGIA,Bibb,Cox Communications
+447,GEORGIA,Bibb,Cox Communications
+448,GEORGIA,Chatham,Comcast Cable
+449,GEORGIA,Chatham,Comcast Cable
+450,GEORGIA,Chatham,Comcast Cable
+451,GEORGIA,Clayton,Comcast Cable
+452,GEORGIA,Clayton,Comcast Cable
+453,GEORGIA,Clayton,Comcast Cable
+454,GEORGIA,Clayton,Comcast Cable
+455,GEORGIA,Ware,Vyve Broadband
+456,GEORGIA,Ware,Vyve Broadband
+457,GEORGIA,Ware,Vyve Broadband
+458,GEORGIA,Gilmer,Community Cable Television Co
+459,GEORGIA,Gilmer,Community Cable Television Co
+460,GEORGIA,Walton,Monroe Utilities Network
+461,GEORGIA,Emanuel,Northland Cable Television
+462,GEORGIA,Emanuel,Northland Cable Television
+463,GEORGIA,Emanuel,Northland Cable Television
+464,GEORGIA,Peach,ComSouth
+465,GEORGIA,Peach,ComSouth
+466,GEORGIA,Monroe,Forsyth CableNet
+467,GEORGIA,Monroe,Forsyth CableNet
+468,GEORGIA,Rabun,TruVista Communications
+469,GEORGIA,Rabun,TruVista Communications
+470,GEORGIA,Sumter,Citizens Cable TV
+471,GEORGIA,Sumter,Citizens Cable TV
+472,GEORGIA,Catoosa,Charter Communications
+473,GEORGIA,Catoosa,Charter Communications
+474,GEORGIA,Franklin,TruVista Communications
+475,GEORGIA,Franklin,TruVista Communications
+476,GEORGIA,Grady,CNS
+477,GEORGIA,Grady,CNS
+478,GEORGIA,Mitchell,CNS
+479,GEORGIA,Mitchell,CNS
+480,GEORGIA,Mitchell,CNS
+481,GEORGIA,Colquitt,CNS
+482,GEORGIA,Colquitt,CNS
+483,GEORGIA,Thomas,CNS
+484,GEORGIA,Thomas,CNS
+485,GEORGIA,Coweta,NuLink Digital
+486,GEORGIA,Coweta,NuLink Digital
+487,GEORGIA,Coweta,NuLink Digital
+488,GUAM,Guam,Docomo Pacific
+489,GUAM,Guam,Docomo Pacific
+490,HAWAII,Honolulu,Oceanic Time Warner Cable
+491,HAWAII,Honolulu,Oceanic Time Warner Cable
+492,HAWAII,Honolulu,Oceanic Time Warner Cable
+493,HAWAII,Maui,Oceanic Time Warner Cable
+494,HAWAII,Maui,Oceanic Time Warner Cable
+495,IOWA,Polk,Mediacom
+496,IOWA,Polk,Mediacom
+497,IOWA,Polk,Mediacom
+498,IOWA,Linn,Mediacom
+499,IOWA,Linn,Mediacom
+500,IOWA,Linn,Mediacom
+501,IOWA,Black Hawk,Mediacom
+502,IOWA,Black Hawk,Mediacom
+503,IOWA,Woodbury,Cable One
+504,IOWA,Woodbury,Cable One
+505,IOWA,Story,Mediacom
+506,IOWA,Story,Mediacom
+507,IOWA,Story,Mediacom
+508,IOWA,Cerro Gordo,Mediacom
+509,IOWA,Cerro Gordo,Mediacom
+510,IOWA,Cerro Gordo,Mediacom
+511,IOWA,Webster,Mediacom
+512,IOWA,Webster,Mediacom
+513,IOWA,Webster,Mediacom
+514,IOWA,Mahaska,Mediacom
+515,IOWA,Mahaska,Mediacom
+516,IOWA,Mahaska,Mediacom
+517,IOWA,Monroe,Mediacom
+518,IOWA,Monroe,Mediacom
+519,IOWA,Monroe,Mediacom
+520,IOWA,Hardin,Mediacom
+521,IOWA,Hardin,Mediacom
+522,IOWA,Hardin,Mediacom
+523,IOWA,Sioux,HTC Communications
+524,IOWA,Sioux,HTC Communications
+525,IOWA,Sioux,HTC Communications
+526,IOWA,Sioux,HTC Communications
+527,IOWA,Sioux,HTC Communications
+528,IOWA,Tama,Mediacom
+529,IOWA,Tama,Mediacom
+530,IOWA,Dickinson,Milford Cable TV
+531,IOWA,Dickinson,Milford Cable TV
+532,IOWA,Shelby,Marne & Elk Horn Telephone Co
+533,IOWA,Dallas,Minburn Cablevision Inc.
+534,IOWA,Scott,Dixon Telephone Co
+535,IOWA,Poweshiek,Montezuma Mutual Telephone & Cable Co.
+536,IOWA,Poweshiek,Montezuma Mutual Telephone & Cable Co.
+537,IOWA,Black Hawk,Cedar Falls Municipal Communications Utility
+538,IOWA,Black Hawk,Cedar Falls Municipal Communications Utility
+539,IOWA,Black Hawk,Cedar Falls Municipal Communications Utility
+540,IOWA,Sioux,HiTec Cable
+541,IOWA,Sioux,HiTec Cable
+542,IOWA,Sioux,HiTec Cable
+543,IOWA,Shelby,Harlan Municipal Utilities
+544,IOWA,Shelby,Harlan Municipal Utilities
+545,IOWA,Shelby,Harlan Municipal Utilities
+546,IOWA,Muscatine,MPW Cable
+547,IOWA,Buchanan,Independence Light & Power Telecommunications
+548,IOWA,Buchanan,Independence Light & Power Telecommunications
+549,IOWA,Buchanan,Independence Light & Power Telecommunications
+550,IOWA,Clay,SMU Cable TV
+551,IOWA,Clay,SMU Cable TV
+552,IOWA,Clay,SMU Cable TV
+553,IOWA,Kossuth,Algona Municipal Utilities
+554,IOWA,Kossuth,Algona Municipal Utilities
+555,IOWA,Kossuth,Algona Municipal Utilities
+556,IOWA,Kossuth,Algona Municipal Utilities
+557,IOWA,Buena Vista,ALTA-TEC
+558,IOWA,Buena Vista,ALTA-TEC
+559,IOWA,Buena Vista,ALTA-TEC
+560,IOWA,Buena Vista,ALTA-TEC
+561,IOWA,Buena Vista,ALTA-TEC
+562,IOWA,Pocahontas,Laurens Municipal Power & Communications
+563,IOWA,Pocahontas,Laurens Municipal Power & Communications
+564,IOWA,Pocahontas,Laurens Municipal Power & Communications
+565,IDAHO,Ada,Cable One
+566,IDAHO,Ada,Cable One
+567,IDAHO,Ada,Cable One
+568,IDAHO,Bonneville,Cable One
+569,IDAHO,Bonneville,Cable One
+570,IDAHO,Bonneville,Cable One
+571,IDAHO,Bannock,Cable One
+572,IDAHO,Bannock,Cable One
+573,IDAHO,Bannock,Cable One
+574,IDAHO,Nez Perce,Cable One
+575,IDAHO,Nez Perce,Cable One
+576,IDAHO,Shoshone,Suddenlink Communications
+577,IDAHO,Shoshone,Suddenlink Communications
+578,IDAHO,Caribou,Silver Star Communications
+579,IDAHO,Caribou,Silver Star Communications
+580,IDAHO,Blaine,Cox Communications
+581,IDAHO,Blaine,Cox Communications
+582,IDAHO,Blaine,Cox Communications
+583,IDAHO,Twin Falls,Cable One
+584,IDAHO,Twin Falls,Cable One
+585,IDAHO,Twin Falls,Cable One
+586,ILLINOIS,Cook,Comcast Cable
+587,ILLINOIS,Cook,Comcast Cable
+588,ILLINOIS,Cook,Comcast Cable
+589,ILLINOIS,Cook,Comcast Cable
+590,ILLINOIS,Cook,Comcast Cable
+591,ILLINOIS,Cook,Comcast Cable
+592,ILLINOIS,Winnebago,Comcast Cable
+593,ILLINOIS,Winnebago,Comcast Cable
+594,ILLINOIS,Winnebago,Comcast Cable
+595,ILLINOIS,Winnebago,Comcast Cable
+596,ILLINOIS,Winnebago,Comcast Cable
+597,ILLINOIS,DuPage,Comcast Cable
+598,ILLINOIS,DuPage,Comcast Cable
+599,ILLINOIS,DuPage,Comcast Cable
+600,ILLINOIS,Sangamon,Comcast Cable
+601,ILLINOIS,Sangamon,Comcast Cable
+602,ILLINOIS,Sangamon,Comcast Cable
+603,ILLINOIS,Champaign,Comcast Cable
+604,ILLINOIS,Champaign,Comcast Cable
+605,ILLINOIS,Champaign,Comcast Cable
+606,ILLINOIS,Champaign,Comcast Cable
+607,ILLINOIS,McLean,Comcast Cable
+608,ILLINOIS,McLean,Comcast Cable
+609,ILLINOIS,McLean,Comcast Cable
+610,ILLINOIS,Cook,Comcast Cable
+611,ILLINOIS,Cook,Comcast Cable
+612,ILLINOIS,Cook,Comcast Cable
+613,ILLINOIS,Knox,Comcast Cable
+614,ILLINOIS,Knox,Comcast Cable
+615,ILLINOIS,Knox,Comcast Cable
+616,ILLINOIS,Adams,Comcast Cable
+617,ILLINOIS,Adams,Comcast Cable
+618,ILLINOIS,Adams,Comcast Cable
+619,ILLINOIS,Morgan,Mediacom
+620,ILLINOIS,Morgan,Mediacom
+621,ILLINOIS,Morgan,Mediacom
+622,ILLINOIS,LaSalle,Mediacom
+623,ILLINOIS,LaSalle,Mediacom
+624,ILLINOIS,LaSalle,Mediacom
+625,ILLINOIS,Coles,Mediacom
+626,ILLINOIS,Coles,Mediacom
+627,ILLINOIS,Coles,Mediacom
+628,ILLINOIS,Vermilion,NewWave Communications
+629,ILLINOIS,Vermilion,NewWave Communications
+630,ILLINOIS,Vermilion,NewWave Communications
+631,ILLINOIS,Christian,NewWave Communications
+632,ILLINOIS,Christian,NewWave Communications
+633,ILLINOIS,Christian,NewWave Communications
+634,ILLINOIS,Franklin,NewWave Communications
+635,ILLINOIS,Franklin,NewWave Communications
+636,ILLINOIS,Peoria,Mediacom
+637,ILLINOIS,Peoria,Mediacom
+638,ILLINOIS,Peoria,Mediacom
+639,ILLINOIS,Union,NewWave Communications
+640,ILLINOIS,Union,NewWave Communications
+641,ILLINOIS,Union,NewWave Communications
+642,ILLINOIS,Jersey,NewWave Communications
+643,ILLINOIS,Jersey,NewWave Communications
+644,ILLINOIS,Jersey,NewWave Communications
+645,ILLINOIS,Kane,Mediacom
+646,ILLINOIS,Kane,Mediacom
+647,ILLINOIS,Kane,Mediacom
+648,ILLINOIS,Randolph,NewWave Communications
+649,ILLINOIS,Randolph,NewWave Communications
+650,ILLINOIS,Randolph,NewWave Communications
+651,ILLINOIS,Pike,Cass Cable TV Inc
+652,ILLINOIS,Pike,Cass Cable TV Inc
+653,ILLINOIS,Pike,Cass Cable TV Inc
+654,ILLINOIS,Henry,Mediacom
+655,ILLINOIS,Henry,Mediacom
+656,ILLINOIS,Henry,Mediacom
+657,ILLINOIS,Hamilton,NewWave Communications
+658,ILLINOIS,Hamilton,NewWave Communications
+659,ILLINOIS,Hamilton,NewWave Communications
+660,ILLINOIS,Saline,Zito Media
+661,ILLINOIS,Saline,Zito Media
+662,ILLINOIS,Stephenson,Mediacom
+663,ILLINOIS,Stephenson,Mediacom
+664,ILLINOIS,Sangamon,Greene County Partners Inc
+665,ILLINOIS,Sangamon,Greene County Partners Inc
+666,ILLINOIS,Cumberland,Mediacom
+667,ILLINOIS,Cumberland,Mediacom
+668,ILLINOIS,Cumberland,Mediacom
+669,ILLINOIS,Cumberland,Mediacom
+670,ILLINOIS,Cumberland,Mediacom
+671,ILLINOIS,Livingston,Heartland Cable Inc
+672,ILLINOIS,LaSalle,Heartland Cable Inc
+673,ILLINOIS,Woodford,Tel-Star Cablevision Inc
+674,ILLINOIS,Woodford,Tel-Star Cablevision Inc
+675,ILLINOIS,Lee,Heartland Cable Broadband
+676,ILLINOIS,Ford,Heartland Cable Inc
+677,ILLINOIS,Peoria,Nova1Net
+678,ILLINOIS,Henderson,Nova1Net
+679,ILLINOIS,Henderson,Nova1Net
+680,ILLINOIS,Bureau,HI Cablevision
+681,ILLINOIS,Peoria,KMHC Inc
+682,ILLINOIS,Peoria,Tel-Star Cablevision Inc
+683,ILLINOIS,DeWitt,Heartland Cable Inc
+684,ILLINOIS,Warren,Comcast Cable
+685,ILLINOIS,Warren,Comcast Cable
+686,ILLINOIS,Cass,Cass Cable TV Inc
+687,ILLINOIS,Cass,Cass Cable TV Inc
+688,ILLINOIS,Cass,Cass Cable TV Inc
+689,ILLINOIS,Fulton,Nova1Net
+690,ILLINOIS,Fulton,Nova1Net
+691,ILLINOIS,Knox,Nova1Net
+692,ILLINOIS,Knox,Nova1Net
+693,ILLINOIS,Jackson,Zito Media
+694,ILLINOIS,Jackson,Zito Media
+695,ILLINOIS,Jackson,Zito Media
+696,ILLINOIS,LaSalle,Heartland Cable Inc
+697,INDIANA,Hendricks,Comcast Cable
+698,INDIANA,Hendricks,Comcast Cable
+699,INDIANA,Marion,Bright House Networks
+700,INDIANA,Marion,Bright House Networks
+701,INDIANA,Marion,Bright House Networks
+702,INDIANA,Allen,Comcast Cable
+703,INDIANA,Allen,Comcast Cable
+704,INDIANA,Allen,Comcast Cable
+705,INDIANA,St. Joseph,Comcast Cable
+706,INDIANA,St. Joseph,Comcast Cable
+707,INDIANA,St. Joseph,Comcast Cable
+708,INDIANA,LaPorte,Comcast Cable
+709,INDIANA,LaPorte,Comcast Cable
+710,INDIANA,LaPorte,Comcast Cable
+711,INDIANA,Vigo,Time Warner Cable
+712,INDIANA,Vigo,Time Warner Cable
+713,INDIANA,Vigo,Time Warner Cable
+714,INDIANA,Delaware,Comcast Cable
+715,INDIANA,Delaware,Comcast Cable
+716,INDIANA,Howard,Comcast Cable
+717,INDIANA,Howard,Comcast Cable
+718,INDIANA,Howard,Comcast Cable
+719,INDIANA,Grant,Bright House Networks
+720,INDIANA,Grant,Bright House Networks
+721,INDIANA,Grant,Bright House Networks
+722,INDIANA,Steuben,Mediacom
+723,INDIANA,Steuben,Mediacom
+724,INDIANA,Knox,NewWave Communications
+725,INDIANA,Knox,NewWave Communications
+726,INDIANA,Knox,NewWave Communications
+727,INDIANA,Fayette,Comcast Cable
+728,INDIANA,Fayette,Comcast Cable
+729,INDIANA,Fayette,Comcast Cable
+730,INDIANA,Shelby,Comcast Cable
+731,INDIANA,Shelby,Comcast Cable
+732,INDIANA,Jefferson,Time Warner Cable
+733,INDIANA,Jefferson,Time Warner Cable
+734,INDIANA,Jefferson,Time Warner Cable
+735,INDIANA,Jefferson,Time Warner Cable
+736,INDIANA,Clinton,Comcast Cable
+737,INDIANA,Clinton,Comcast Cable
+738,INDIANA,Clinton,Comcast Cable
+739,INDIANA,Dearborn,Comcast Cable
+740,INDIANA,Dearborn,Comcast Cable
+741,INDIANA,Dearborn,Comcast Cable
+742,INDIANA,Adams,Mediacom
+743,INDIANA,Adams,Mediacom
+744,INDIANA,Adams,Mediacom
+745,INDIANA,DeKalb,Mediacom
+746,INDIANA,DeKalb,Mediacom
+747,INDIANA,DeKalb,Mediacom
+748,INDIANA,Jasper,TV Cable of Rensselaer Inc
+749,INDIANA,Elkhart,Quality Cablevision
+750,INDIANA,Elkhart,Quality Cablevision
+751,INDIANA,Pulaski,LightStream
+752,INDIANA,Vanderburgh,"WOW! Internet, Cable & Phone"
+753,INDIANA,Vanderburgh,"WOW! Internet, Cable & Phone"
+754,KANSAS,Sedgwick,Cox Communications
+755,KANSAS,Sedgwick,Cox Communications
+756,KANSAS,Sedgwick,Cox Communications
+757,KANSAS,Shawnee,Cox Communications
+758,KANSAS,Shawnee,Cox Communications
+759,KANSAS,Shawnee,Cox Communications
+760,KANSAS,Douglas,"WOW! Internet, Cable & Phone"
+761,KANSAS,Douglas,"WOW! Internet, Cable & Phone"
+762,KANSAS,Douglas,"WOW! Internet, Cable & Phone"
+763,KANSAS,Douglas,"WOW! Internet, Cable & Phone"
+764,KANSAS,Pottawatomie,Cox Communications
+765,KANSAS,Pottawatomie,Cox Communications
+766,KANSAS,Pottawatomie,Cox Communications
+767,KANSAS,Saline,Cox Communications
+768,KANSAS,Saline,Cox Communications
+769,KANSAS,Saline,Cox Communications
+770,KANSAS,Lyon,Cable One
+771,KANSAS,Lyon,Cable One
+772,KANSAS,Finney,Cox Communications
+773,KANSAS,Finney,Cox Communications
+774,KANSAS,Finney,Cox Communications
+775,KANSAS,Crawford,Cox Communications
+776,KANSAS,Crawford,Cox Communications
+777,KANSAS,Crawford,Cox Communications
+778,KANSAS,Ford,Cox Communications
+779,KANSAS,Ford,Cox Communications
+780,KANSAS,Ford,Cox Communications
+781,KANSAS,Montgomery,Cable One
+782,KANSAS,Montgomery,Cable One
+783,KANSAS,Labette,Cable One
+784,KANSAS,Labette,Cable One
+785,KANSAS,Neosho,Cable One
+786,KANSAS,Neosho,Cable One
+787,KANSAS,Sumner,Sumner Cable TV Inc.
+788,KANSAS,Sumner,Sumner Cable TV Inc.
+789,KANSAS,Sumner,Sumner Cable TV Inc.
+790,KANSAS,Dickinson,Eagle Communications
+791,KANSAS,Dickinson,Eagle Communications
+792,KANSAS,Dickinson,Eagle Communications
+793,KANSAS,Grant,Pioneer Communications
+794,KANSAS,Grant,Pioneer Communications
+795,KANSAS,Sherman,Eagle Communications
+796,KANSAS,Sherman,Eagle Communications
+797,KANSAS,Sherman,Eagle Communications
+798,KANSAS,Coffey,Mediacom
+799,KANSAS,Coffey,Mediacom
+800,KANSAS,Coffey,Mediacom
+801,KANSAS,Ellsworth,Eagle Communications
+802,KANSAS,Ellsworth,Eagle Communications
+803,KANSAS,Ellsworth,Eagle Communications
+804,KANSAS,Decatur,Eagle Communications
+805,KANSAS,Decatur,Eagle Communications
+806,KANSAS,Labette,Mediacom
+807,KANSAS,Rawlins,Atwood Cable Systems Inc
+808,KANSAS,Rawlins,Atwood Cable Systems Inc
+809,KANSAS,Sheridan,Eagle Communications
+810,KANSAS,Sheridan,Eagle Communications
+811,KANSAS,Sheridan,Eagle Communications
+812,KANSAS,Riley,Eagle Communications
+813,KANSAS,Riley,Eagle Communications
+814,KANSAS,McPherson,MTC
+815,KANSAS,Sedgwick,IdeaTek Communications LLC
+816,KANSAS,Ellis,Eagle Communications
+817,KANSAS,Ellis,Eagle Communications
+818,KANSAS,Ellis,Eagle Communications
+819,KANSAS,Ellis,Eagle Communications
+820,KANSAS,Shawnee,Zito Media
+821,KANSAS,Shawnee,Zito Media
+822,KANSAS,Shawnee,Zito Media
+823,KANSAS,Graham,Nex-Tech
+824,KANSAS,Graham,Nex-Tech
+825,KENTUCKY,Jefferson,Time Warner Cable
+826,KENTUCKY,Jefferson,Time Warner Cable
+827,KENTUCKY,Jefferson,Time Warner Cable
+828,KENTUCKY,Kenton,Time Warner Cable
+829,KENTUCKY,Kenton,Time Warner Cable
+830,KENTUCKY,Kenton,Time Warner Cable
+831,KENTUCKY,Fayette,Time Warner Cable
+832,KENTUCKY,Fayette,Time Warner Cable
+833,KENTUCKY,Fayette,Time Warner Cable
+834,KENTUCKY,Floyd,Inter Mountain Cable Inc
+835,KENTUCKY,Floyd,Inter Mountain Cable Inc
+836,KENTUCKY,Floyd,Inter Mountain Cable Inc
+837,KENTUCKY,Warren,Time Warner Cable
+838,KENTUCKY,Warren,Time Warner Cable
+839,KENTUCKY,Warren,Time Warner Cable
+840,KENTUCKY,Madison,Time Warner Cable
+841,KENTUCKY,Madison,Time Warner Cable
+842,KENTUCKY,Madison,Time Warner Cable
+843,KENTUCKY,Franklin,Frankfort Plant Board Cable Service
+844,KENTUCKY,Franklin,Frankfort Plant Board Cable Service
+845,KENTUCKY,Franklin,Frankfort Plant Board Cable Service
+846,KENTUCKY,Laurel,Time Warner Cable
+847,KENTUCKY,Laurel,Time Warner Cable
+848,KENTUCKY,Laurel,Time Warner Cable
+849,KENTUCKY,Nelson,Bardstown Cable TV
+850,KENTUCKY,Nelson,Bardstown Cable TV
+851,KENTUCKY,Nelson,Bardstown Cable TV
+852,KENTUCKY,Knott,TVS Cable
+853,KENTUCKY,Knott,TVS Cable
+854,KENTUCKY,Knott,TVS Cable
+855,KENTUCKY,Mason,Limestone Bracken Cablevision
+856,KENTUCKY,Mason,Limestone Bracken Cablevision
+857,KENTUCKY,Mason,Limestone Bracken Cablevision
+858,KENTUCKY,Letcher,Inter Mountain Cable Inc
+859,KENTUCKY,Letcher,Inter Mountain Cable Inc
+860,KENTUCKY,Letcher,Inter Mountain Cable Inc
+861,KENTUCKY,Johnson,Big Sandy Broadband
+862,KENTUCKY,Johnson,Big Sandy Broadband
+863,KENTUCKY,Johnson,Big Sandy Broadband
+864,KENTUCKY,Ballard,Zito Media
+865,KENTUCKY,Ballard,Zito Media
+866,KENTUCKY,Ballard,Zito Media
+867,KENTUCKY,Grant,Williamstown Cable
+868,KENTUCKY,Grant,Williamstown Cable
+869,KENTUCKY,Harlan,Harlan Community TV Inc
+870,KENTUCKY,Calloway,Zito Media
+871,KENTUCKY,Calloway,Zito Media
+872,KENTUCKY,Fulton,Zito Media
+873,KENTUCKY,Fulton,Zito Media
+874,KENTUCKY,Fulton,Zito Media
+875,KENTUCKY,Magoffin,Howard's TV Cable
+876,KENTUCKY,Magoffin,Howard's TV Cable
+877,KENTUCKY,Lawrence,Lycom Communications
+878,KENTUCKY,Lawrence,Lycom Communications
+879,KENTUCKY,Lawrence,Lycom Communications
+880,KENTUCKY,Bullitt,Inside Connect Cable
+881,LOUISIANA,East Baton Rouge,Cox Communications
+882,LOUISIANA,East Baton Rouge,Cox Communications
+883,LOUISIANA,East Baton Rouge,Cox Communications
+884,LOUISIANA,Bossier,Comcast Cable
+885,LOUISIANA,Bossier,Comcast Cable
+886,LOUISIANA,Bossier,Comcast Cable
+887,LOUISIANA,Rapides,Suddenlink Communications
+888,LOUISIANA,Rapides,Suddenlink Communications
+889,LOUISIANA,Rapides,Suddenlink Communications
+890,LOUISIANA,Calcasieu,Suddenlink Communications
+891,LOUISIANA,Calcasieu,Suddenlink Communications
+892,LOUISIANA,Calcasieu,Suddenlink Communications
+893,LOUISIANA,Bossier,Suddenlink Communications
+894,LOUISIANA,Bossier,Suddenlink Communications
+895,LOUISIANA,Bossier,Suddenlink Communications
+896,LOUISIANA,Evangeline,Suddenlink Communications
+897,LOUISIANA,Evangeline,Suddenlink Communications
+898,LOUISIANA,East Feliciana,Bailey Cable TV Inc
+899,LOUISIANA,St. Mary,Allen's TV Cable Service Inc
+900,LOUISIANA,St. Mary,Allen's TV Cable Service Inc
+901,LOUISIANA,St. Mary,Allen's TV Cable Service Inc
+902,LOUISIANA,St. Landry,Allen's TV Cable Service Inc
+903,LOUISIANA,St. Landry,Allen's TV Cable Service Inc
+904,LOUISIANA,St. Landry,Allen's TV Cable Service Inc
+905,MASSACHUSETTS,Worcester,Shrewsbury's Community Cablevision
+906,MASSACHUSETTS,Worcester,Shrewsbury's Community Cablevision
+907,MASSACHUSETTS,Worcester,Shrewsbury's Community Cablevision
+908,MASSACHUSETTS,Bristol,Charter Communications
+909,MASSACHUSETTS,Bristol,Charter Communications
+910,MASSACHUSETTS,Berkshire,Time Warner Cable
+911,MASSACHUSETTS,Berkshire,Time Warner Cable
+912,MASSACHUSETTS,Berkshire,Time Warner Cable
+913,MASSACHUSETTS,Hampden,Russell Municipal Cable TV
+914,MASSACHUSETTS,Norfolk,BELD Broadband
+915,MASSACHUSETTS,Norfolk,BELD Broadband
+916,MASSACHUSETTS,Norfolk,BELD Broadband
+917,MARYLAND,Baltimore,Comcast Cable
+918,MARYLAND,Baltimore,Comcast Cable
+919,MARYLAND,Anne Arundel,Comcast Cable
+920,MARYLAND,Anne Arundel,Comcast Cable
+921,MARYLAND,Anne Arundel,Comcast Cable
+922,MARYLAND,Anne Arundel,Broadstripe
+923,MARYLAND,Anne Arundel,Broadstripe
+924,MARYLAND,Anne Arundel,Broadstripe
+925,MARYLAND,Frederick,Comcast Cable
+926,MARYLAND,Frederick,Comcast Cable
+927,MARYLAND,Frederick,Comcast Cable
+928,MARYLAND,Worcester,Comcast Cable
+929,MARYLAND,Worcester,Comcast Cable
+930,MARYLAND,Worcester,Comcast Cable
+931,MARYLAND,Washington,Antietam Cable Television Inc
+932,MARYLAND,Washington,Antietam Cable Television Inc
+933,MARYLAND,Washington,Antietam Cable Television Inc
+934,MARYLAND,Washington,Antietam Cable Television Inc
+935,MARYLAND,Wicomico,Comcast Cable
+936,MARYLAND,Wicomico,Comcast Cable
+937,MARYLAND,Wicomico,Comcast Cable
+938,MARYLAND,Cecil,Comcast Cable
+939,MARYLAND,Cecil,Comcast Cable
+940,MARYLAND,Cecil,Comcast Cable
+941,MARYLAND,Harford,Armstrong Cable Services
+942,MARYLAND,Harford,Armstrong Cable Services
+943,MARYLAND,Harford,Armstrong Cable Services
+944,MARYLAND,St. Mary's,MetroCast Communications
+945,MARYLAND,St. Mary's,MetroCast Communications
+946,MARYLAND,St. Mary's,MetroCast Communications
+947,MARYLAND,St. Mary's,MetroCast Communications
+948,MAINE,Cumberland,Time Warner Cable
+949,MAINE,Cumberland,Time Warner Cable
+950,MAINE,Cumberland,Time Warner Cable
+951,MAINE,Cumberland,Comcast Cable
+952,MAINE,Cumberland,Comcast Cable
+953,MAINE,Cumberland,Comcast Cable
+954,MAINE,York,MetroCast Cablevision
+955,MAINE,York,MetroCast Cablevision
+956,MAINE,York,MetroCast Cablevision
+957,MAINE,Penobscot,Bee Line Cable TV
+958,MAINE,Penobscot,Bee Line Cable TV
+959,MAINE,Somerset,Bee Line Cable TV
+960,MAINE,Somerset,Bee Line Cable TV
+961,MAINE,Aroostook,Time Warner Cable
+962,MAINE,Aroostook,Time Warner Cable
+963,MAINE,Penobscot,Time Warner Cable
+964,MICHIGAN,Wayne,Comcast Cable
+965,MICHIGAN,Wayne,Comcast Cable
+966,MICHIGAN,Macomb,Comcast Cable
+967,MICHIGAN,Macomb,Comcast Cable
+968,MICHIGAN,Genesee,Comcast Cable
+969,MICHIGAN,Genesee,Comcast Cable
+970,MICHIGAN,Oakland,Comcast Cable
+971,MICHIGAN,Oakland,Comcast Cable
+972,MICHIGAN,Oakland,Comcast Cable
+973,MICHIGAN,Washtenaw,Comcast Cable
+974,MICHIGAN,Washtenaw,Comcast Cable
+975,MICHIGAN,Ingham,Comcast Cable
+976,MICHIGAN,Ingham,Comcast Cable
+977,MICHIGAN,Ingham,Comcast Cable
+978,MICHIGAN,Wayne,Comcast Cable
+979,MICHIGAN,Wayne,Comcast Cable
+980,MICHIGAN,Wayne,Comcast Cable
+981,MICHIGAN,Oakland,Comcast Cable
+982,MICHIGAN,Oakland,Comcast Cable
+983,MICHIGAN,Oakland,Comcast Cable
+984,MICHIGAN,Kalamazoo,Charter Communications
+985,MICHIGAN,Kalamazoo,Charter Communications
+986,MICHIGAN,Wayne,Comcast Cable
+987,MICHIGAN,Wayne,Comcast Cable
+988,MICHIGAN,Wayne,Comcast Cable
+989,MICHIGAN,Muskegon,Comcast Cable
+990,MICHIGAN,Muskegon,Comcast Cable
+991,MICHIGAN,Muskegon,Comcast Cable
+992,MICHIGAN,Muskegon,Comcast Cable
+993,MICHIGAN,Macomb,Comcast Cable
+994,MICHIGAN,Macomb,Comcast Cable
+995,MICHIGAN,Oakland,Comcast Cable
+996,MICHIGAN,Oakland,Comcast Cable
+997,MICHIGAN,Oakland,Comcast Cable
+998,MICHIGAN,Wayne,Bright House Networks
+999,MICHIGAN,Wayne,Bright House Networks
+1000,MICHIGAN,Wayne,Bright House Networks
+1001,MICHIGAN,Calhoun,Comcast Cable
+1002,MICHIGAN,Calhoun,Comcast Cable
+1003,MICHIGAN,Calhoun,Comcast Cable
+1004,MICHIGAN,Oakland,Comcast Cable
+1005,MICHIGAN,Oakland,Comcast Cable
+1006,MICHIGAN,Midland,Charter Communications
+1007,MICHIGAN,Midland,Charter Communications
+1008,MICHIGAN,Wayne,Wyandotte Municipal Services
+1009,MICHIGAN,Wayne,Wyandotte Municipal Services
+1010,MICHIGAN,Wayne,Wyandotte Municipal Services
+1011,MICHIGAN,Gladwin,Charter Communications
+1012,MICHIGAN,Gladwin,Charter Communications
+1013,MICHIGAN,Van Buren,Sister Lakes Cable TV
+1014,MICHIGAN,Eaton,"WOW! Internet, Cable & Phone"
+1015,MICHIGAN,Eaton,"WOW! Internet, Cable & Phone"
+1016,MICHIGAN,Eaton,"WOW! Internet, Cable & Phone"
+1017,MICHIGAN,Dickinson,City of Norway CATV
+1018,MICHIGAN,Dickinson,City of Norway CATV
+1019,MICHIGAN,Mackinac,MIcom
+1020,MICHIGAN,Mackinac,MIcom
+1021,MICHIGAN,Shiawassee,TVC Cable
+1022,MICHIGAN,Shiawassee,TVC Cable
+1023,MICHIGAN,Shiawassee,TVC Cable
+1024,MICHIGAN,Jackson,Springport Telephone Co
+1025,MICHIGAN,Jackson,Springport Telephone Co
+1026,MICHIGAN,Huron,Comcast Cable
+1027,MICHIGAN,Huron,Comcast Cable
+1028,MICHIGAN,Huron,Comcast Cable
+1029,MICHIGAN,Oceana,Golden Communications
+1030,MICHIGAN,Branch,Coldwater Board of Public Utilities
+1031,MICHIGAN,Branch,Coldwater Board of Public Utilities
+1032,MICHIGAN,Branch,Coldwater Board of Public Utilities
+1033,MICHIGAN,Monroe,D & P Cable
+1034,MICHIGAN,Monroe,D & P Cable
+1035,MICHIGAN,Monroe,D & P Cable
+1036,MINNESOTA,Hennepin,Comcast Cable
+1037,MINNESOTA,Hennepin,Comcast Cable
+1038,MINNESOTA,Hennepin,Comcast Cable
+1039,MINNESOTA,Olmsted,Charter Communications
+1040,MINNESOTA,Olmsted,Charter Communications
+1041,MINNESOTA,Dakota,Charter Communications
+1042,MINNESOTA,Dakota,Charter Communications
+1043,MINNESOTA,Hennepin,Mediacom
+1044,MINNESOTA,Hennepin,Mediacom
+1045,MINNESOTA,Hennepin,Mediacom
+1046,MINNESOTA,Isanti,Midco
+1047,MINNESOTA,Isanti,Midco
+1048,MINNESOTA,Isanti,Midco
+1049,MINNESOTA,Isanti,Midco
+1050,MINNESOTA,Isanti,Midco
+1051,MINNESOTA,St. Louis,Mediacom
+1052,MINNESOTA,St. Louis,Mediacom
+1053,MINNESOTA,St. Louis,Mediacom
+1054,MINNESOTA,Crow Wing,Charter Communications
+1055,MINNESOTA,Crow Wing,Charter Communications
+1056,MINNESOTA,Itasca,Mediacom
+1057,MINNESOTA,Itasca,Mediacom
+1058,MINNESOTA,Itasca,Mediacom
+1059,MINNESOTA,Pennington,Sjoberg's Cable TV Inc
+1060,MINNESOTA,Pennington,Sjoberg's Cable TV Inc
+1061,MINNESOTA,Pennington,Sjoberg's Cable TV Inc
+1062,MINNESOTA,Otter Tail,Arvig
+1063,MINNESOTA,Otter Tail,Arvig
+1064,MINNESOTA,Otter Tail,Arvig
+1065,MINNESOTA,Benton,Benton Cooperative Telephone
+1066,MINNESOTA,Benton,Benton Cooperative Telephone
+1067,MINNESOTA,Roseau,Sjoberg's Cable TV Inc
+1068,MINNESOTA,Roseau,Sjoberg's Cable TV Inc
+1069,MINNESOTA,Roseau,Sjoberg's Cable TV Inc
+1070,MINNESOTA,Roseau,Sjoberg's Cable TV Inc
+1071,MINNESOTA,Polk,Garden Valley Telephone Co
+1072,MINNESOTA,Marshall,Sjoberg's Cable TV Inc
+1073,MINNESOTA,Marshall,Sjoberg's Cable TV Inc
+1074,MINNESOTA,Marshall,Sjoberg's Cable TV Inc
+1075,MINNESOTA,Marshall,Sjoberg's Cable TV Inc
+1076,MINNESOTA,Roseau,Sjoberg's Cable TV Inc
+1077,MINNESOTA,Roseau,Sjoberg's Cable TV Inc
+1078,MINNESOTA,Roseau,Sjoberg's Cable TV Inc
+1079,MINNESOTA,Roseau,Sjoberg's Cable TV Inc
+1080,MINNESOTA,Jackson,Jackson Municipal TV System
+1081,MINNESOTA,Jackson,Jackson Municipal TV System
+1082,MISSOURI,Clay,Time Warner Cable
+1083,MISSOURI,Clay,Time Warner Cable
+1084,MISSOURI,Clay,Time Warner Cable
+1085,MISSOURI,Boone,Mediacom
+1086,MISSOURI,Boone,Mediacom
+1087,MISSOURI,Boone,Mediacom
+1088,MISSOURI,Greene,Mediacom
+1089,MISSOURI,Greene,Mediacom
+1090,MISSOURI,Greene,Mediacom
+1091,MISSOURI,Greene,Mediacom
+1092,,,Charter Communications
+1093,,,Charter Communications
+1094,MISSOURI,Jasper,Cable One
+1095,MISSOURI,Jasper,Cable One
+1096,MISSOURI,Pulaski,Cable America Corp
+1097,MISSOURI,Pulaski,Cable America Corp
+1098,MISSOURI,Pulaski,Cable America Corp
+1099,MISSOURI,Pulaski,Cable America Corp
+1100,MISSOURI,Butler,NewWave Communications
+1101,MISSOURI,Butler,NewWave Communications
+1102,MISSOURI,Butler,NewWave Communications
+1103,MISSOURI,Butler,NewWave Communications
+1104,MISSOURI,Adair,Cable One
+1105,MISSOURI,Adair,Cable One
+1106,MISSOURI,Adair,Cable One
+1107,MISSOURI,Jasper,Suddenlink Communications
+1108,MISSOURI,Jasper,Suddenlink Communications
+1109,MISSOURI,Jasper,Suddenlink Communications
+1110,MISSOURI,Stoddard,NewWave Communications
+1111,MISSOURI,Stoddard,NewWave Communications
+1112,MISSOURI,Stoddard,NewWave Communications
+1113,MISSOURI,Hickory,American Broadband Missouri
+1114,MISSOURI,Hickory,American Broadband Missouri
+1115,MISSOURI,Hickory,American Broadband Missouri
+1116,MISSOURI,Greene,Cable America Corp
+1117,MISSOURI,Greene,Cable America Corp
+1118,MISSOURI,Greene,Cable America Corp
+1119,MISSOURI,Linn,Suddenlink Communications
+1120,MISSOURI,Linn,Suddenlink Communications
+1121,MISSOURI,Linn,Suddenlink Communications
+1122,MISSOURI,Jasper,Mediacom
+1123,MISSOURI,Jasper,Mediacom
+1124,MISSOURI,Barry,Mediacom
+1125,MISSOURI,Barry,Mediacom
+1126,MISSOURI,Dallas,Provincial Cable & Data
+1127,MISSOURI,Dallas,Provincial Cable & Data
+1128,MISSOURI,Dallas,Provincial Cable & Data
+1129,MISSOURI,Chariton,Mediacom
+1130,MISSOURI,Chariton,Mediacom
+1131,MISSOURI,Newton,Mediacom
+1132,MISSOURI,Newton,Mediacom
+1133,MISSOURI,Webster,Mediacom
+1134,MISSOURI,Webster,Mediacom
+1135,MISSOURI,Benton,Provincial Cable & Data
+1136,MISSOURI,Benton,Provincial Cable & Data
+1137,MISSOURI,Benton,Provincial Cable & Data
+1138,MISSOURI,Dade,Mediacom
+1139,MISSOURI,Dade,Mediacom
+1140,MISSOURI,St. Louis,Cable America Corp
+1141,MISSOURI,St. Louis,Cable America Corp
+1142,MISSOURI,St. Louis,Cable America Corp
+1143,MISSISSIPPI,Hinds,Comcast Cable
+1144,MISSISSIPPI,Hinds,Comcast Cable
+1145,MISSISSIPPI,Hinds,Comcast Cable
+1146,MISSISSIPPI,Forrest,Comcast Cable
+1147,MISSISSIPPI,Forrest,Comcast Cable
+1148,MISSISSIPPI,Harrison,Cable One
+1149,MISSISSIPPI,Harrison,Cable One
+1150,MISSISSIPPI,Adams,Cable One
+1151,MISSISSIPPI,Adams,Cable One
+1152,MISSISSIPPI,Adams,Cable One
+1153,MISSISSIPPI,Coahoma,Cable One
+1154,MISSISSIPPI,Coahoma,Cable One
+1155,MISSISSIPPI,Bolivar,Cable One
+1156,MISSISSIPPI,Bolivar,Cable One
+1157,MISSISSIPPI,Lincoln,Cable One
+1158,MISSISSIPPI,Lincoln,Cable One
+1159,MISSISSIPPI,Scott,MaxxSouth Broadband
+1160,MISSISSIPPI,Scott,MaxxSouth Broadband
+1161,MISSISSIPPI,Scott,MaxxSouth Broadband
+1162,MISSISSIPPI,Amite,Bailey Cable TV
+1163,ALABAMA,Madison,Mediacom
+1164,ALABAMA,Madison,Mediacom
+1165,MISSISSIPPI,Lowndes,Cable One
+1166,MISSISSIPPI,Lowndes,Cable One
+1167,MISSISSIPPI,Tippah,Ripley Video Cable Co. Inc
+1168,MISSISSIPPI,Tippah,Ripley Video Cable Co. Inc
+1169,MONTANA,Missoula,Charter Communications
+1170,MONTANA,Missoula,Charter Communications
+1171,MONTANA,Cascade,Charter Communications
+1172,MONTANA,Cascade,Charter Communications
+1173,MONTANA,Lewis And Clark,Charter Communications
+1174,MONTANA,Lewis And Clark,Charter Communications
+1175,MONTANA,Silver Bow,Charter Communications
+1176,MONTANA,Silver Bow,Charter Communications
+1177,MONTANA,Flathead,Charter Communications
+1178,MONTANA,Flathead,Charter Communications
+1179,MONTANA,Gallatin,Charter Communications
+1180,MONTANA,Gallatin,Charter Communications
+1181,MONTANA,Hill,Charter Communications
+1182,MONTANA,Hill,Charter Communications
+1183,MONTANA,Lincoln,MontanaSky West
+1184,MONTANA,Lincoln,MontanaSky West
+1185,MONTANA,Lincoln,MontanaSky West
+1186,MONTANA,Lincoln,MontanaSky West
+1187,MONTANA,Park,Charter Communications
+1188,MONTANA,Park,Charter Communications
+1189,MONTANA,Deer Lodge,Charter Communications
+1190,MONTANA,Deer Lodge,Charter Communications
+1191,MONTANA,Ravalli,Charter Communications
+1192,MONTANA,Ravalli,Charter Communications
+1193,MONTANA,Lake,Charter Communications
+1194,MONTANA,Lake,Charter Communications
+1195,MONTANA,Beaverhead,Charter Communications
+1196,MONTANA,Beaverhead,Charter Communications
+1197,MONTANA,Glacier,Charter Communications
+1198,MONTANA,Glacier,Charter Communications
+1199,MONTANA,Powell,Charter Communications
+1200,MONTANA,Powell,Charter Communications
+1201,MONTANA,Jefferson,Whitehall Cable TV
+1202,MONTANA,Garfield,Mid-Rivers Communications
+1203,MONTANA,Carbon,Bridger Cable TV
+1204,MONTANA,Carbon,Bridger Cable TV
+1205,NORTH CAROLINA,Mecklenburg,Time Warner Cable
+1206,NORTH CAROLINA,Mecklenburg,Time Warner Cable
+1207,NORTH CAROLINA,Mecklenburg,Time Warner Cable
+1208,NORTH CAROLINA,Guilford,Time Warner Cable
+1209,NORTH CAROLINA,Guilford,Time Warner Cable
+1210,NORTH CAROLINA,Guilford,Time Warner Cable
+1211,NORTH CAROLINA,New Hanover,Time Warner Cable
+1212,NORTH CAROLINA,New Hanover,Time Warner Cable
+1213,NORTH CAROLINA,New Hanover,Time Warner Cable
+1214,NORTH CAROLINA,Pitt,Suddenlink Communications
+1215,NORTH CAROLINA,Pitt,Suddenlink Communications
+1216,NORTH CAROLINA,Pitt,Suddenlink Communications
+1217,NORTH CAROLINA,Henderson,Morris Broadband
+1218,NORTH CAROLINA,Henderson,Morris Broadband
+1219,NORTH CAROLINA,Henderson,Morris Broadband
+1220,NORTH CAROLINA,Pasquotank,Time Warner Cable
+1221,NORTH CAROLINA,Pasquotank,Time Warner Cable
+1222,NORTH CAROLINA,Pasquotank,Time Warner Cable
+1223,NORTH CAROLINA,Person,Charter Communications
+1224,NORTH CAROLINA,Person,Charter Communications
+1225,NORTH CAROLINA,Burke,CoMPAS-City of Morganton Public Antenna System
+1226,NORTH CAROLINA,Burke,CoMPAS-City of Morganton Public Antenna System
+1227,NORTH CAROLINA,Burke,CoMPAS-City of Morganton Public Antenna System
+1228,NORTH CAROLINA,Yancey,Country Cablevision Inc
+1229,NORTH CAROLINA,Yancey,Country Cablevision Inc
+1230,NORTH CAROLINA,Haywood,Carolina Mountain Cablevision Inc
+1231,NORTH CAROLINA,Haywood,Carolina Mountain Cablevision Inc
+1232,NORTH CAROLINA,Beaufort,Red's TV Cable Inc
+1233,NORTH CAROLINA,Beaufort,Red's TV Cable Inc
+1234,NORTH CAROLINA,Beaufort,Red's TV Cable Inc
+1235,NORTH CAROLINA,Brunswick,Tele-Media
+1236,NORTH CAROLINA,Brunswick,Tele-Media
+1237,NORTH CAROLINA,Brunswick,Tele-Media
+1238,NORTH CAROLINA,Davidson,Windstream
+1239,NORTH CAROLINA,Davidson,Windstream
+1240,NORTH CAROLINA,Davidson,Windstream
+1241,NORTH CAROLINA,Davidson,Windstream
+1242,NORTH CAROLINA,Davidson,Windstream
+1243,NORTH DAKOTA,Cass,Cable One
+1244,NORTH DAKOTA,Cass,Cable One
+1245,NORTH DAKOTA,Cass,Cable One
+1246,NORTH DAKOTA,Burleigh,Midco
+1247,NORTH DAKOTA,Burleigh,Midco
+1248,NORTH DAKOTA,Grand Forks,Midco
+1249,NORTH DAKOTA,Grand Forks,Midco
+1250,NORTH DAKOTA,Grand Forks,Midco
+1251,NORTH DAKOTA,Ward,Midco
+1252,NORTH DAKOTA,Ward,Midco
+1253,NORTH DAKOTA,Ramsey,Midco
+1254,NORTH DAKOTA,Ramsey,Midco
+1255,NORTH DAKOTA,Mercer,Midco
+1256,NORTH DAKOTA,Mercer,Midco
+1257,NORTH DAKOTA,Griggs,Midco
+1258,NEBRASKA,Douglas,Cox Communications
+1259,NEBRASKA,Douglas,Cox Communications
+1260,NEBRASKA,Douglas,Cox Communications
+1261,NEBRASKA,Lancaster,Time Warner Cable
+1262,NEBRASKA,Lancaster,Time Warner Cable
+1263,NEBRASKA,Lancaster,Time Warner Cable
+1264,NEBRASKA,Madison,Cable One
+1265,NEBRASKA,Madison,Cable One
+1266,NEBRASKA,Madison,Cable One
+1267,NEBRASKA,Lincoln,Charter Communications
+1268,NEBRASKA,Lincoln,Charter Communications
+1269,NEBRASKA,Dawes,Great Plains Communications
+1270,NEBRASKA,Dawes,Great Plains Communications
+1271,NEBRASKA,Dawes,Great Plains Communications
+1272,NEBRASKA,Fillmore,Zito Media
+1273,NEBRASKA,Fillmore,Zito Media
+1274,NEBRASKA,Otoe,Zito Media
+1275,NEBRASKA,Otoe,Zito Media
+1276,NEBRASKA,Saline,Zito Media
+1277,NEBRASKA,Saline,Zito Media
+1278,NEBRASKA,Saline,Zito Media
+1279,NEBRASKA,Harlan,Eagle Communications
+1280,NEBRASKA,Perkins,Great Plains Communications
+1281,NEBRASKA,Perkins,Great Plains Communications
+1282,NEBRASKA,Clay,Zito Media
+1283,NEBRASKA,Clay,Zito Media
+1284,NEBRASKA,Dodge,WesTel Systems
+1285,NEBRASKA,Dodge,WesTel Systems
+1286,NEBRASKA,Keith,Eagle Communications
+1287,NEBRASKA,Greeley,Center Cable Co
+1288,NEBRASKA,Wayne,American Broadband
+1289,NEBRASKA,Wayne,American Broadband
+1290,NEBRASKA,Wayne,American Broadband
+1291,NEBRASKA,Sioux,WinDBreak Cable
+1292,NEW HAMPSHIRE,Strafford,MetroCast Cablevision
+1293,NEW HAMPSHIRE,Strafford,MetroCast Cablevision
+1294,NEW HAMPSHIRE,Strafford,MetroCast Cablevision
+1295,NEW HAMPSHIRE,Belknap,MetroCast Cablevision
+1296,NEW HAMPSHIRE,Belknap,MetroCast Cablevision
+1297,NEW HAMPSHIRE,Belknap,MetroCast Cablevision
+1298,NEW HAMPSHIRE,Cheshire,Argent Communications
+1299,NEW HAMPSHIRE,Cheshire,Argent Communications
+1300,NEW HAMPSHIRE,Cheshire,Argent Communications
+1301,NEW HAMPSHIRE,Grafton,SkiSat Cable TV
+1302,NEW HAMPSHIRE,Grafton,SkiSat Cable TV
+1303,NEW JERSEY,Union,Comcast Cable
+1304,NEW JERSEY,Union,Comcast Cable
+1305,NEW JERSEY,Union,Comcast Cable
+1306,NEW JERSEY,Morris,Cablevision
+1307,NEW JERSEY,Morris,Cablevision
+1308,NEW JERSEY,Morris,Cablevision
+1309,NEW JERSEY,Hudson,Cablevision
+1310,NEW JERSEY,Hudson,Cablevision
+1311,NEW JERSEY,Hudson,Cablevision
+1312,NEW JERSEY,Monmouth,Comcast Cable
+1313,NEW JERSEY,Monmouth,Comcast Cable
+1314,NEW JERSEY,Monmouth,Comcast Cable
+1315,NEW JERSEY,Monmouth,Cablevision
+1316,NEW JERSEY,Monmouth,Cablevision
+1317,NEW JERSEY,Monmouth,Cablevision
+1318,NEW JERSEY,Bergen,Cablevision
+1319,NEW JERSEY,Bergen,Cablevision
+1320,NEW JERSEY,Bergen,Cablevision
+1321,NEW JERSEY,Union,Cablevision
+1322,NEW JERSEY,Union,Cablevision
+1323,NEW JERSEY,Union,Cablevision
+1324,NEW JERSEY,Mercer,Cablevision
+1325,NEW JERSEY,Mercer,Cablevision
+1326,NEW JERSEY,Mercer,Cablevision
+1327,NEW JERSEY,Cumberland,Comcast Cable
+1328,NEW JERSEY,Cumberland,Comcast Cable
+1329,NEW JERSEY,Cumberland,Comcast Cable
+1330,NEW JERSEY,Sussex,Service Electric Cable Company
+1331,NEW JERSEY,Sussex,Service Electric Cable Company
+1332,NEW JERSEY,Sussex,Service Electric Cable Company
+1333,NEW JERSEY,Hunterdon,Service Electric Cable TV of Hunterdon Inc.
+1334,NEW JERSEY,Hunterdon,Service Electric Cable TV of Hunterdon Inc.
+1335,NEW JERSEY,Hunterdon,Service Electric Cable TV of Hunterdon Inc.
+1336,NEW JERSEY,Hunterdon,Service Electric Cable TV of Hunterdon Inc.
+1337,NEW MEXICO,Bernalillo,Comcast Cable
+1338,NEW MEXICO,Bernalillo,Comcast Cable
+1339,NEW MEXICO,Bernalillo,Comcast Cable
+1340,NEW MEXICO,Santa Fe,Comcast Cable
+1341,NEW MEXICO,Santa Fe,Comcast Cable
+1342,NEW MEXICO,Santa Fe,Comcast Cable
+1343,NEW MEXICO,Chaves,Cable One
+1344,NEW MEXICO,Chaves,Cable One
+1345,NEW MEXICO,Los Alamos,Comcast Cable
+1346,NEW MEXICO,Los Alamos,Comcast Cable
+1347,NEW MEXICO,Los Alamos,Comcast Cable
+1348,NEW MEXICO,Eddy,PVT
+1349,NEW MEXICO,Eddy,PVT
+1350,NEW MEXICO,Eddy,PVT
+1351,NEW MEXICO,Eddy,PVT
+1352,NEW MEXICO,Eddy,PVT
+1353,NEW MEXICO,Sierra,PVT
+1354,NEW MEXICO,Sierra,PVT
+1355,NEVADA,Washoe,Charter Communications
+1356,NEVADA,Washoe,Charter Communications
+1357,NEVADA,Nye,Suddenlink
+1358,NEVADA,Nye,Suddenlink
+1359,NEVADA,Nye,Suddenlink
+1360,NEVADA,Elko,Satview Broadband
+1361,NEVADA,Clark,Suddenlink
+1362,NEVADA,Clark,Suddenlink
+1363,NEVADA,Clark,Suddenlink
+1364,NEW YORK,Albany,Time Warner Cable
+1365,NEW YORK,Albany,Time Warner Cable
+1366,NEW YORK,Albany,Time Warner Cable
+1367,NEW YORK,Westchester,Time Warner Cable
+1368,NEW YORK,Westchester,Time Warner Cable
+1369,NEW YORK,Westchester,Time Warner Cable
+1370,NEW YORK,Greene,Mid-Hudson Cablevision Inc.
+1371,NEW YORK,Greene,Mid-Hudson Cablevision Inc.
+1372,NEW YORK,Greene,Mid-Hudson Cablevision Inc.
+1373,NEW YORK,Westchester,Cablevision
+1374,NEW YORK,Westchester,Cablevision
+1375,NEW YORK,Westchester,Cablevision
+1376,NEW YORK,Putnam,Comcast Cable
+1377,NEW YORK,Putnam,Comcast Cable
+1378,NEW YORK,Putnam,Comcast Cable
+1379,NEW YORK,Jefferson,Castle Cable TV
+1380,NEW YORK,Tioga,Haefele TV Inc
+1381,NEW YORK,Tioga,Haefele TV Inc
+1382,NEW YORK,Tompkins,Haefele TV Inc
+1383,NEW YORK,Tompkins,Haefele TV Inc
+1384,NEW YORK,Delaware,MTC Cable
+1385,NEW YORK,Delaware,MTC Cable
+1386,NEW YORK,Essex,Cable Communications of Willsboro
+1387,NEW YORK,Essex,Cable Communications of Willsboro
+1388,NEW YORK,Essex,Keene Valley Video Inc
+1389,NEW YORK,Cayuga,Southern Cayuga County Cablevision
+1390,NEW YORK,New York,Time Warner Cable
+1391,NEW YORK,New York,Time Warner Cable
+1392,NEW YORK,New York,Time Warner Cable
+1393,OHIO,Hamilton,Time Warner Cable
+1394,OHIO,Hamilton,Time Warner Cable
+1395,OHIO,Franklin,Time Warner Cable
+1396,OHIO,Franklin,Time Warner Cable
+1397,OHIO,Franklin,Time Warner Cable
+1398,OHIO,Lucas,Buckeye Cable System Inc
+1399,OHIO,Lucas,Buckeye Cable System Inc
+1400,OHIO,Lucas,Buckeye Cable System Inc
+1401,OHIO,Cuyahoga,Time Warner Cable
+1402,OHIO,Cuyahoga,Time Warner Cable
+1403,OHIO,Cuyahoga,Time Warner Cable
+1404,OHIO,Cuyahoga,Time Warner Cable
+1405,OHIO,Licking,Time Warner Cable
+1406,OHIO,Licking,Time Warner Cable
+1407,OHIO,Licking,Time Warner Cable
+1408,OHIO,Licking,Time Warner Cable
+1409,OHIO,Stark,MCTV
+1410,OHIO,Stark,MCTV
+1411,OHIO,Marion,Time Warner Cable
+1412,OHIO,Marion,Time Warner Cable
+1413,OHIO,Marion,Time Warner Cable
+1414,OHIO,Defiance,Time Warner Cable
+1415,OHIO,Defiance,Time Warner Cable
+1416,OHIO,Defiance,Time Warner Cable
+1417,OHIO,Defiance,Time Warner Cable
+1418,OHIO,Defiance,Time Warner Cable
+1419,OHIO,Seneca,Time Warner Cable
+1420,OHIO,Seneca,Time Warner Cable
+1421,OHIO,Seneca,Time Warner Cable
+1422,OHIO,Van Wert,Time Warner Cable
+1423,OHIO,Van Wert,Time Warner Cable
+1424,OHIO,Van Wert,Time Warner Cable
+1425,OHIO,Van Wert,Time Warner Cable
+1426,OHIO,Guernsey,Suddenlink Communications
+1427,OHIO,Guernsey,Suddenlink Communications
+1428,OHIO,Guernsey,Suddenlink Communications
+1429,OHIO,Lorain,Cable Co-op Inc
+1430,OHIO,Lorain,Cable Co-op Inc
+1431,OHIO,Washington,Time Warner Cable
+1432,OHIO,Washington,Time Warner Cable
+1433,OHIO,Washington,Time Warner Cable
+1434,OHIO,Washington,Time Warner Cable
+1435,OHIO,Paulding,Time Warner Cable
+1436,OHIO,Paulding,Time Warner Cable
+1437,OHIO,Paulding,Time Warner Cable
+1438,OHIO,Paulding,Time Warner Cable
+1439,OHIO,Darke,Time Warner Cable
+1440,OHIO,Darke,Time Warner Cable
+1441,OHIO,Darke,Time Warner Cable
+1442,OHIO,Henry,Time Warner Cable
+1443,OHIO,Henry,Time Warner Cable
+1444,OHIO,Henry,Time Warner Cable
+1445,OHIO,Henry,Time Warner Cable
+1446,OHIO,Ashtabula,Orwell Communications
+1447,OHIO,Auglaize,NKTelco Services
+1448,OHIO,Auglaize,NKTelco Services
+1449,OHIO,Auglaize,NKTelco Services
+1450,OHIO,Brown,S. Bryer Cable TV Corp
+1451,OHIO,Brown,S. Bryer Cable TV Corp
+1452,OHIO,Medina,Wadsworth Cable TV
+1453,OHIO,Medina,Wadsworth Cable TV
+1454,OHIO,Medina,Wadsworth Cable TV
+1455,OHIO,Hamilton,Cincinnati Bell Fioptics TV
+1456,OKLAHOMA,Tulsa,Cox Communications
+1457,OKLAHOMA,Tulsa,Cox Communications
+1458,OKLAHOMA,Tulsa,Cox Communications
+1459,OKLAHOMA,Oklahoma,Cox Communications
+1460,OKLAHOMA,Oklahoma,Cox Communications
+1461,OKLAHOMA,Oklahoma,Cox Communications
+1462,OKLAHOMA,Comanche,Fidelity Communications
+1463,OKLAHOMA,Comanche,Fidelity Communications
+1464,OKLAHOMA,Comanche,Fidelity Communications
+1465,OKLAHOMA,Garfield,Suddenlink Communications
+1466,OKLAHOMA,Garfield,Suddenlink Communications
+1467,OKLAHOMA,Garfield,Suddenlink Communications
+1468,OKLAHOMA,Muskogee,Suddenlink Communications
+1469,OKLAHOMA,Muskogee,Suddenlink Communications
+1470,OKLAHOMA,Muskogee,Suddenlink Communications
+1471,OKLAHOMA,Carter,Cable One
+1472,OKLAHOMA,Carter,Cable One
+1473,OKLAHOMA,Stephens,Cable One
+1474,OKLAHOMA,Stephens,Cable One
+1475,OKLAHOMA,Stephens,Cable One
+1476,OKLAHOMA,Kay,Cable One
+1477,OKLAHOMA,Kay,Cable One
+1478,OKLAHOMA,Jackson,Cable One
+1479,OKLAHOMA,Jackson,Cable One
+1480,OKLAHOMA,Pontotoc,Cable One
+1481,OKLAHOMA,Pontotoc,Cable One
+1482,OKLAHOMA,Pontotoc,Cable One
+1483,OKLAHOMA,Ottawa,Cable One
+1484,OKLAHOMA,Ottawa,Cable One
+1485,OKLAHOMA,Ottawa,Cable One
+1486,OKLAHOMA,Bryan,Vyve Broadband
+1487,OKLAHOMA,Bryan,Vyve Broadband
+1488,OKLAHOMA,Comanche,Suddenlink Communications
+1489,OKLAHOMA,Comanche,Suddenlink Communications
+1490,OKLAHOMA,Comanche,Suddenlink Communications
+1491,OKLAHOMA,Beckham,Cable One
+1492,OKLAHOMA,Beckham,Cable One
+1493,OKLAHOMA,Beckham,Cable One
+1494,OKLAHOMA,Cherokee,Tahlequah Cable TV Inc
+1495,OKLAHOMA,Cherokee,Tahlequah Cable TV Inc
+1496,OKLAHOMA,Payne,Suddenlink Communications
+1497,OKLAHOMA,Payne,Suddenlink Communications
+1498,OKLAHOMA,Payne,Suddenlink Communications
+1499,OKLAHOMA,Osage,Community Cable & Broadband
+1500,OKLAHOMA,Osage,Community Cable & Broadband
+1501,OKLAHOMA,Greer,Cable West
+1502,OKLAHOMA,Dewey,Taloga Cable TV
+1503,OKLAHOMA,Caddo,Cable West
+1504,OKLAHOMA,Caddo,Cable West
+1505,OKLAHOMA,Craig,Cable One
+1506,OKLAHOMA,Craig,Cable One
+1507,OREGON,Multnomah,Comcast Cable
+1508,OREGON,Multnomah,Comcast Cable
+1509,OREGON,Multnomah,Comcast Cable
+1510,OREGON,Lane,Comcast Cable
+1511,OREGON,Lane,Comcast Cable
+1512,OREGON,Lane,Comcast Cable
+1513,OREGON,Marion,Comcast Cable
+1514,OREGON,Marion,Comcast Cable
+1515,OREGON,Marion,Comcast Cable
+1516,OREGON,Jackson,Charter Communications
+1517,OREGON,Jackson,Charter Communications
+1518,OREGON,Benton,Comcast Cable
+1519,OREGON,Benton,Comcast Cable
+1520,OREGON,Benton,Comcast Cable
+1521,OREGON,Clatsop,Charter Communications
+1522,OREGON,Clatsop,Charter Communications
+1523,OREGON,Deschutes,BendBroadband
+1524,OREGON,Deschutes,BendBroadband
+1525,OREGON,Coos,Charter Communications
+1526,OREGON,Coos,Charter Communications
+1527,OREGON,Lincoln,Charter Communications
+1528,OREGON,Lincoln,Charter Communications
+1529,OREGON,Wasco,Charter Communications
+1530,OREGON,Wasco,Charter Communications
+1531,OREGON,Crook,Crestview Cable TV
+1532,OREGON,Crook,Crestview Cable TV
+1533,OREGON,Crook,Crestview Cable TV
+1534,OREGON,Grant,Blue Mountain TV Cable Co
+1535,OREGON,Marion,Wave Broadband
+1536,OREGON,Marion,Wave Broadband
+1537,OREGON,Marion,Wave Broadband
+1538,OREGON,Hood River,City of Cascade Locks Cable TV
+1539,OREGON,Gilliam,J & N Cable
+1540,OREGON,Deschutes,Crestview Cable TV
+1541,OREGON,Deschutes,Crestview Cable TV
+1542,OREGON,Deschutes,Crestview Cable TV
+1543,OREGON,Jefferson,Crestview Cable TV
+1544,OREGON,Jefferson,Crestview Cable TV
+1545,OREGON,Jefferson,Crestview Cable TV
+1546,OREGON,Deschutes,BendBroadband
+1547,OREGON,Deschutes,BendBroadband
+1548,OREGON,Deschutes,BendBroadband
+1549,OREGON,Clackamas,Clear Creek Telephone & TeleVision
+1550,OREGON,Clackamas,Clear Creek Telephone & TeleVision
+1551,OREGON,Clackamas,Clear Creek Telephone & TeleVision
+1552,PENNSYLVANIA,Allegheny,Comcast Cable
+1553,PENNSYLVANIA,Allegheny,Comcast Cable
+1554,PENNSYLVANIA,Allegheny,Comcast Cable
+1555,PENNSYLVANIA,Delaware,Comcast Cable
+1556,PENNSYLVANIA,Delaware,Comcast Cable
+1557,PENNSYLVANIA,Delaware,Comcast Cable
+1558,PENNSYLVANIA,Philadelphia,Comcast Cable
+1559,PENNSYLVANIA,Philadelphia,Comcast Cable
+1560,PENNSYLVANIA,Lehigh,Service Electric Cable TV & Communications
+1561,PENNSYLVANIA,Lehigh,Service Electric Cable TV & Communications
+1562,PENNSYLVANIA,Lehigh,Service Electric Cable TV & Communications
+1563,PENNSYLVANIA,Dauphin,Comcast Cable
+1564,PENNSYLVANIA,Dauphin,Comcast Cable
+1565,PENNSYLVANIA,Dauphin,Comcast Cable
+1566,PENNSYLVANIA,Blair,Atlantic Broadband
+1567,PENNSYLVANIA,Blair,Atlantic Broadband
+1568,PENNSYLVANIA,Blair,Atlantic Broadband
+1569,PENNSYLVANIA,Northumberland,Service Electric Cablevision
+1570,PENNSYLVANIA,Northumberland,Service Electric Cablevision
+1571,PENNSYLVANIA,Northumberland,Service Electric Cablevision
+1572,PENNSYLVANIA,Northumberland,Service Electric Cablevision
+1573,PENNSYLVANIA,Northumberland,Service Electric Cablevision
+1574,PENNSYLVANIA,Luzerne,Service Electric Cable Company
+1575,PENNSYLVANIA,Luzerne,Service Electric Cable Company
+1576,PENNSYLVANIA,Luzerne,Service Electric Cable Company
+1577,PENNSYLVANIA,Luzerne,Service Electric Cablevision
+1578,PENNSYLVANIA,Luzerne,Service Electric Cablevision
+1579,PENNSYLVANIA,Luzerne,Service Electric Cablevision
+1580,PENNSYLVANIA,Butler,Armstrong Cable Services
+1581,PENNSYLVANIA,Butler,Armstrong Cable Services
+1582,PENNSYLVANIA,Butler,Armstrong Cable Services
+1583,PENNSYLVANIA,Montour,CATV Service Inc
+1584,PENNSYLVANIA,Montour,CATV Service Inc
+1585,PENNSYLVANIA,Montour,CATV Service Inc
+1586,PENNSYLVANIA,Lackawanna,Adams Cable Service
+1587,PENNSYLVANIA,Lackawanna,Adams Cable Service
+1588,PENNSYLVANIA,Lackawanna,Adams Cable Service
+1589,PENNSYLVANIA,Lackawanna,Adams Cable Service
+1590,PENNSYLVANIA,Berks,Service Electric Cablevision
+1591,PENNSYLVANIA,Berks,Service Electric Cablevision
+1592,PENNSYLVANIA,Berks,Service Electric Cablevision
+1593,PENNSYLVANIA,Venango,Comcast Cable
+1594,PENNSYLVANIA,Venango,Comcast Cable
+1595,PENNSYLVANIA,Venango,Comcast Cable
+1596,PENNSYLVANIA,Venango,Comcast Cable
+1597,PENNSYLVANIA,Columbia,MetroCast Communications
+1598,PENNSYLVANIA,Columbia,MetroCast Communications
+1599,PENNSYLVANIA,Columbia,MetroCast Communications
+1600,PENNSYLVANIA,Columbia,MetroCast Communications
+1601,PENNSYLVANIA,Erie,Coaxial Cable TV Corp
+1602,PENNSYLVANIA,Potter,Zito Media
+1603,PENNSYLVANIA,Potter,Zito Media
+1604,PENNSYLVANIA,Potter,Zito Media
+1605,PENNSYLVANIA,Potter,Zito Media
+1606,PENNSYLVANIA,Schuylkill,Wire Television Corp
+1607,PENNSYLVANIA,Schuylkill,Wire Television Corp
+1608,PENNSYLVANIA,Centre,Tele-Media
+1609,PENNSYLVANIA,Centre,Tele-Media
+1610,PENNSYLVANIA,Centre,Tele-Media
+1611,PENNSYLVANIA,Centre,Tele-Media
+1612,PENNSYLVANIA,Centre,Tele-Media
+1613,PENNSYLVANIA,Centre,Tele-Media
+1614,PENNSYLVANIA,Schuylkill,Wire Television Corp
+1615,PENNSYLVANIA,Schuylkill,Wire Television Corp
+1616,PENNSYLVANIA,Indiana,Comcast Cable
+1617,PENNSYLVANIA,Indiana,Comcast Cable
+1618,PENNSYLVANIA,Indiana,Comcast Cable
+1619,PENNSYLVANIA,Lebanon,Gap Cable TV Inc
+1620,PENNSYLVANIA,Jefferson,Comcast Cable
+1621,PENNSYLVANIA,Jefferson,Comcast Cable
+1622,PENNSYLVANIA,Jefferson,Comcast Cable
+1623,PENNSYLVANIA,Jefferson,Comcast Cable
+1624,PENNSYLVANIA,Bradford,Beaver Valley Cable Co
+1625,PENNSYLVANIA,Bradford,Beaver Valley Cable Co
+1626,PENNSYLVANIA,Bradford,Beaver Valley Cable Co
+1627,PENNSYLVANIA,Washington,Bentleyville Communications
+1628,PENNSYLVANIA,Clearfield,Zito Media
+1629,PENNSYLVANIA,Clearfield,Zito Media
+1630,PENNSYLVANIA,Clearfield,Zito Media
+1631,PENNSYLVANIA,Clearfield,Zito Media
+1632,PUERTO RICO,Luquillo,Liberty Cablevision
+1633,PUERTO RICO,Luquillo,Liberty Cablevision
+1634,PUERTO RICO,Luquillo,Liberty Cablevision
+1635,RHODE ISLAND,Bristol,Full Channel Inc
+1636,RHODE ISLAND,Bristol,Full Channel Inc
+1637,SOUTH CAROLINA,Charleston,Comcast Cable
+1638,SOUTH CAROLINA,Charleston,Comcast Cable
+1639,SOUTH CAROLINA,Charleston,Comcast Cable
+1640,SOUTH CAROLINA,Charleston,Comcast Cable
+1641,SOUTH CAROLINA,Richland,Time Warner Cable
+1642,SOUTH CAROLINA,Richland,Time Warner Cable
+1643,SOUTH CAROLINA,Richland,Time Warner Cable
+1644,SOUTH CAROLINA,Greenwood,Northland Cable Television
+1645,SOUTH CAROLINA,Greenwood,Northland Cable Television
+1646,SOUTH CAROLINA,Greenwood,Northland Cable Television
+1647,SOUTH CAROLINA,Horry,Horry Telephone Coop
+1648,SOUTH CAROLINA,Horry,Horry Telephone Coop
+1649,SOUTH CAROLINA,Horry,Horry Telephone Coop
+1650,SOUTH CAROLINA,Marlboro,MetroCast Communications
+1651,SOUTH CAROLINA,Marlboro,MetroCast Communications
+1652,SOUTH CAROLINA,Aiken,Atlantic Broadband
+1653,SOUTH CAROLINA,Aiken,Atlantic Broadband
+1654,SOUTH CAROLINA,Aiken,Atlantic Broadband
+1655,SOUTH CAROLINA,Berkeley,Home Telecom
+1656,SOUTH CAROLINA,Berkeley,Home Telecom
+1657,SOUTH CAROLINA,Berkeley,Home Telecom
+1658,SOUTH CAROLINA,York,Comporium Communications
+1659,SOUTH CAROLINA,York,Comporium Communications
+1660,SOUTH CAROLINA,York,Comporium Communications
+1661,SOUTH DAKOTA,Lincoln,Midco
+1662,SOUTH DAKOTA,Lincoln,Midco
+1663,SOUTH DAKOTA,Pennington,Midco
+1664,SOUTH DAKOTA,Pennington,Midco
+1665,SOUTH DAKOTA,Brown,Midco
+1666,SOUTH DAKOTA,Brown,Midco
+1667,SOUTH DAKOTA,Codington,Midco
+1668,SOUTH DAKOTA,Codington,Midco
+1669,SOUTH DAKOTA,Beadle,Midco
+1670,SOUTH DAKOTA,Beadle,Midco
+1671,SOUTH DAKOTA,Davison,Midco
+1672,SOUTH DAKOTA,Davison,Midco
+1673,SOUTH DAKOTA,Turner,Clarity Telcom
+1674,SOUTH DAKOTA,Turner,Clarity Telcom
+1675,SOUTH DAKOTA,Stanley,Midco
+1676,SOUTH DAKOTA,Stanley,Midco
+1677,TENNESSEE,Shelby,Comcast Cable
+1678,TENNESSEE,Shelby,Comcast Cable
+1679,TENNESSEE,Shelby,Comcast Cable
+1680,TENNESSEE,Davidson,Comcast Cable
+1681,TENNESSEE,Davidson,Comcast Cable
+1682,TENNESSEE,Davidson,Comcast Cable
+1683,TENNESSEE,Dyer,Cable One
+1684,TENNESSEE,Dyer,Cable One
+1685,TENNESSEE,Claiborne,Vyve Broadband
+1686,TENNESSEE,Claiborne,Vyve Broadband
+1687,TENNESSEE,Claiborne,Vyve Broadband
+1688,TENNESSEE,Gibson,Click1.Net
+1689,TENNESSEE,Gibson,Click1.Net
+1690,TENNESSEE,Gibson,Click1.Net
+1691,TENNESSEE,Hardeman,Time Warner Cable
+1692,TENNESSEE,Hardeman,Time Warner Cable
+1693,TENNESSEE,Hardeman,Time Warner Cable
+1694,TENNESSEE,Haywood,Time Warner Cable
+1695,TENNESSEE,Haywood,Time Warner Cable
+1696,TENNESSEE,Haywood,Time Warner Cable
+1697,TENNESSEE,Gibson,Trenton TV Cable Co
+1698,TENNESSEE,Gibson,Trenton TV Cable Co
+1699,TENNESSEE,Blount,Charter Communications
+1700,TENNESSEE,Blount,Charter Communications
+1701,TENNESSEE,Cumberland,Spirit Broadband
+1702,TENNESSEE,Cumberland,Spirit Broadband
+1703,TEXAS,Harris,Comcast Cable
+1704,TEXAS,Harris,Comcast Cable
+1705,TEXAS,Harris,Comcast Cable
+1706,TEXAS,Harris,Comcast Cable
+1707,TEXAS,Harris,Comcast Cable
+1708,TEXAS,Bexar,Time Warner Cable
+1709,TEXAS,Bexar,Time Warner Cable
+1710,TEXAS,Bexar,Time Warner Cable
+1711,TEXAS,Bexar,Time Warner Cable
+1712,TEXAS,Travis,Time Warner Cable
+1713,TEXAS,Travis,Time Warner Cable
+1714,TEXAS,Travis,Time Warner Cable
+1715,TEXAS,Travis,Time Warner Cable
+1716,TEXAS,Tarrant,Charter Communications
+1717,TEXAS,Tarrant,Charter Communications
+1718,TEXAS,El Paso,Time Warner Cable
+1719,TEXAS,El Paso,Time Warner Cable
+1720,TEXAS,El Paso,Time Warner Cable
+1721,TEXAS,Lubbock,Suddenlink Communications
+1722,TEXAS,Lubbock,Suddenlink Communications
+1723,TEXAS,Lubbock,Suddenlink Communications
+1724,TEXAS,Potter,Suddenlink Communications
+1725,TEXAS,Potter,Suddenlink Communications
+1726,TEXAS,Potter,Suddenlink Communications
+1727,TEXAS,Hidalgo,Time Warner Cable
+1728,TEXAS,Hidalgo,Time Warner Cable
+1729,TEXAS,Hidalgo,Time Warner Cable
+1730,TEXAS,Hidalgo,Time Warner Cable
+1731,TEXAS,Taylor,Suddenlink Communications
+1732,TEXAS,Taylor,Suddenlink Communications
+1733,TEXAS,Taylor,Suddenlink Communications
+1734,TEXAS,Brazos,Suddenlink Communications
+1735,TEXAS,Brazos,Suddenlink Communications
+1736,TEXAS,Brazos,Suddenlink Communications
+1737,TEXAS,Tom Green,Suddenlink Communications
+1738,TEXAS,Tom Green,Suddenlink Communications
+1739,TEXAS,Tom Green,Suddenlink Communications
+1740,TEXAS,Ector,Cable One
+1741,TEXAS,Ector,Cable One
+1742,TEXAS,Ector,Cable One
+1743,TEXAS,Webb,Time Warner Cable
+1744,TEXAS,Webb,Time Warner Cable
+1745,TEXAS,Webb,Time Warner Cable
+1746,TEXAS,Webb,Time Warner Cable
+1747,TEXAS,Bowie,Cable One
+1748,TEXAS,Bowie,Cable One
+1749,TEXAS,Gregg,Longview Cable Television
+1750,TEXAS,Gregg,Longview Cable Television
+1751,TEXAS,Gregg,Longview Cable Television
+1752,TEXAS,Grayson,Cable One
+1753,TEXAS,Grayson,Cable One
+1754,TEXAS,Grayson,Cable One
+1755,TEXAS,Victoria,Suddenlink Communications
+1756,TEXAS,Victoria,Suddenlink Communications
+1757,TEXAS,Victoria,Suddenlink Communications
+1758,TEXAS,Harris,Suddenlink Communications
+1759,TEXAS,Harris,Suddenlink Communications
+1760,TEXAS,Harris,Suddenlink Communications
+1761,TEXAS,Kerr,Time Warner Cable
+1762,TEXAS,Kerr,Time Warner Cable
+1763,TEXAS,Kerr,Time Warner Cable
+1764,TEXAS,Kerr,Time Warner Cable
+1765,TEXAS,Hutchinson,Cable One
+1766,TEXAS,Hutchinson,Cable One
+1767,TEXAS,Hutchinson,Cable One
+1768,TEXAS,Fayette,NewWave Communications
+1769,TEXAS,Fayette,NewWave Communications
+1770,TEXAS,Fayette,NewWave Communications
+1771,TEXAS,Brazoria,NewWave Communications
+1772,TEXAS,Brazoria,NewWave Communications
+1773,TEXAS,Brazoria,NewWave Communications
+1774,TEXAS,Aransas,Cable One
+1775,TEXAS,Aransas,Cable One
+1776,TEXAS,Aransas,Cable One
+1777,TEXAS,Washington,Suddenlink Communications
+1778,TEXAS,Washington,Suddenlink Communications
+1779,TEXAS,Washington,Suddenlink Communications
+1780,TEXAS,Calhoun,Cable One
+1781,TEXAS,Calhoun,Cable One
+1782,TEXAS,Morris,Suddenlink Communications
+1783,TEXAS,Morris,Suddenlink Communications
+1784,TEXAS,Morris,Suddenlink Communications
+1785,TEXAS,Milam,Zito Media
+1786,TEXAS,Milam,Zito Media
+1787,TEXAS,Hardin,NewWave Communications
+1788,TEXAS,Hardin,NewWave Communications
+1789,TEXAS,Hardin,NewWave Communications
+1790,TEXAS,Hill,Northland Cable Television
+1791,TEXAS,Hill,Northland Cable Television
+1792,TEXAS,Van Zandt,East Texas Cable Co
+1793,TEXAS,Van Zandt,East Texas Cable Co
+1794,TEXAS,Van Zandt,East Texas Cable Co
+1795,TEXAS,Van Zandt,East Texas Cable Co
+1796,TEXAS,Austin,NewWave Communications
+1797,TEXAS,Austin,NewWave Communications
+1798,TEXAS,Austin,NewWave Communications
+1799,TEXAS,Taylor,NewWave Communications
+1800,TEXAS,Taylor,NewWave Communications
+1801,TEXAS,Reeves,Mountain Zone TV
+1802,TEXAS,Polk,Suddenlink Communications
+1803,TEXAS,Polk,Suddenlink Communications
+1804,TEXAS,Kleberg,NewWave Communications
+1805,TEXAS,Kleberg,NewWave Communications
+1806,TEXAS,Kleberg,NewWave Communications
+1807,TEXAS,Nueces,Grande Communications
+1808,TEXAS,Nueces,Grande Communications
+1809,TEXAS,Nueces,Grande Communications
+1810,TEXAS,McLennan,Grande Communications
+1811,TEXAS,McLennan,Grande Communications
+1812,TEXAS,McLennan,Grande Communications
+1813,TEXAS,Harris,En-Touch Systems Inc
+1814,TEXAS,Harris,En-Touch Systems Inc
+1815,TEXAS,Harris,En-Touch Systems Inc
+1816,TEXAS,Harris,En-Touch Systems Inc
+1817,TEXAS,Ector,Grande Communications
+1818,TEXAS,Ector,Grande Communications
+1819,TEXAS,Ector,Grande Communications
+1820,TEXAS,Travis,Grande Communications
+1821,TEXAS,Travis,Grande Communications
+1822,TEXAS,Travis,Grande Communications
+1823,TEXAS,Bexar,Grande Communications
+1824,TEXAS,Bexar,Grande Communications
+1825,TEXAS,Bexar,Grande Communications
+1826,UTAH,Salt Lake,Comcast Cable
+1827,UTAH,Salt Lake,Comcast Cable
+1828,UTAH,Salt Lake,Comcast Cable
+1829,UTAH,Salt Lake,Comcast Cable
+1830,UTAH,Utah,Comcast Cable
+1831,UTAH,Utah,Comcast Cable
+1832,UTAH,Utah,Comcast Cable
+1833,UTAH,Utah,Comcast Cable
+1834,UTAH,Cache,Comcast Cable
+1835,UTAH,Cache,Comcast Cable
+1836,UTAH,Cache,Comcast Cable
+1837,UTAH,Cache,Comcast Cable
+1838,UTAH,Washington,Baja Broadband
+1839,UTAH,Washington,Baja Broadband
+1840,UTAH,Washington,Baja Broadband
+1841,UTAH,Washington,Baja Broadband
+1842,UTAH,Sanpete,CentraCom
+1843,UTAH,Sanpete,CentraCom
+1844,UTAH,Sanpete,CentraCom
+1845,UTAH,Tooele,CentraCom
+1846,UTAH,Tooele,CentraCom
+1847,UTAH,Utah,Spanish Fork Community Network
+1848,UTAH,Utah,Spanish Fork Community Network
+1849,UTAH,Utah,Spanish Fork Community Network
+1850,VIRGINIA,Fairfax,Cox Communications
+1851,VIRGINIA,Fairfax,Cox Communications
+1852,VIRGINIA,Fairfax,Cox Communications
+1853,VIRGINIA,Roanoke City,Cox Communications
+1854,VIRGINIA,Roanoke City,Cox Communications
+1855,VIRGINIA,Roanoke City,Cox Communications
+1856,VIRGINIA,Pittsylvania,Comcast Cable
+1857,VIRGINIA,Pittsylvania,Comcast Cable
+1858,VIRGINIA,Pittsylvania,Comcast Cable
+1859,VIRGINIA,Rockingham,Comcast Cable
+1860,VIRGINIA,Rockingham,Comcast Cable
+1861,VIRGINIA,Rockingham,Comcast Cable
+1862,VIRGINIA,Suffolk City,Charter Communications
+1863,VIRGINIA,Suffolk City,Charter Communications
+1864,VIRGINIA,Montgomery,Shentel
+1865,VIRGINIA,Montgomery,Shentel
+1866,VIRGINIA,Montgomery,Shentel
+1867,VIRGINIA,Tazewell,Time Warner Cable
+1868,VIRGINIA,Tazewell,Time Warner Cable
+1869,VIRGINIA,Tazewell,Time Warner Cable
+1870,VIRGINIA,Mecklenburg,Comcast Cable
+1871,VIRGINIA,Mecklenburg,Comcast Cable
+1872,VIRGINIA,Mecklenburg,Comcast Cable
+1873,VIRGINIA,Pittsylvania,Chatmoss Cablevision
+1874,VIRGINIA,Middlesex,MetroCast Communications
+1875,VIRGINIA,Middlesex,MetroCast Communications
+1876,VIRGINIA,Campbell,Shentel
+1877,VIRGINIA,Campbell,Shentel
+1878,VIRGINIA,Campbell,Shentel
+1879,VIRGINIA,Rockbridge,Comcast Cable
+1880,VIRGINIA,Rockbridge,Comcast Cable
+1881,VIRGINIA,Rockbridge,Comcast Cable
+1882,VIRGINIA,Prince William,Comcast Cable
+1883,VIRGINIA,Prince William,Comcast Cable
+1884,VIRGINIA,Prince William,Comcast Cable
+1885,VERMONT,Windham,Duncan Cable TV Service
+1886,VERMONT,Windham,Southern Vermont Cable Co
+1887,VERMONT,Windham,Southern Vermont Cable Co
+1888,VERMONT,Lamoille,Stowe Cablevision Inc
+1889,VERMONT,Lamoille,Stowe Cablevision Inc
+1890,WASHINGTON,King,Comcast Cable
+1891,WASHINGTON,King,Comcast Cable
+1892,WASHINGTON,King,Comcast Cable
+1893,WASHINGTON,Grays Harbor,Comcast Cable
+1894,WASHINGTON,Grays Harbor,Comcast Cable
+1895,WASHINGTON,Grays Harbor,Comcast Cable
+1896,WASHINGTON,Spokane,Comcast Cable
+1897,WASHINGTON,Spokane,Comcast Cable
+1898,WASHINGTON,Spokane,Comcast Cable
+1899,WASHINGTON,Clark,Comcast Cable
+1900,WASHINGTON,Clark,Comcast Cable
+1901,WASHINGTON,Clark,Comcast Cable
+1902,WASHINGTON,Benton,Charter Communications
+1903,WASHINGTON,Benton,Charter Communications
+1904,WASHINGTON,Yakima,Charter Communications
+1905,WASHINGTON,Yakima,Charter Communications
+1906,WASHINGTON,Kitsap,Wave Broadband
+1907,WASHINGTON,Kitsap,Wave Broadband
+1908,WASHINGTON,Kitsap,Wave Broadband
+1909,WASHINGTON,Kitsap,Wave Broadband
+1910,WASHINGTON,Whatcom,Comcast Cable
+1911,WASHINGTON,Whatcom,Comcast Cable
+1912,WASHINGTON,Whatcom,Comcast Cable
+1913,WASHINGTON,Cowlitz,Comcast Cable
+1914,WASHINGTON,Cowlitz,Comcast Cable
+1915,WASHINGTON,Cowlitz,Comcast Cable
+1916,WASHINGTON,Cowlitz,Comcast Cable
+1917,WASHINGTON,King,Wave Broadband
+1918,WASHINGTON,King,Wave Broadband
+1919,WASHINGTON,Jefferson,Wave Broadband
+1920,WASHINGTON,Jefferson,Wave Broadband
+1921,WASHINGTON,Jefferson,Wave Broadband
+1922,WASHINGTON,Jefferson,Wave Broadband
+1923,WASHINGTON,Grant,Northland Cable Television
+1924,WASHINGTON,Grant,Northland Cable Television
+1925,WASHINGTON,Grant,Northland Cable Television
+1926,WASHINGTON,King,Wave Broadband
+1927,WASHINGTON,King,Wave Broadband
+1928,WASHINGTON,King,Wave Broadband
+1929,WASHINGTON,King,Wave Broadband
+1930,WASHINGTON,Adams,Northland Cable Television
+1931,WASHINGTON,Adams,Northland Cable Television
+1932,WASHINGTON,Adams,Northland Cable Television
+1933,WASHINGTON,Whatcom,Delta Cable
+1934,WASHINGTON,Whatcom,Delta Cable
+1935,WASHINGTON,Douglas,Country Cable
+1936,WASHINGTON,Douglas,Country Cable
+1937,WASHINGTON,Pend Oreille,Northstar Broadband
+1938,WASHINGTON,Pend Oreille,Northstar Broadband
+1939,WASHINGTON,Whitman,Northstar Broadband
+1940,WASHINGTON,Whitman,Northstar Broadband
+1941,WASHINGTON,Whitman,St. John Cable Co. Inc
+1942,WASHINGTON,Whitman,St. John Cable Co. Inc
+1943,WASHINGTON,Pend Oreille,Northstar Broadband
+1944,WASHINGTON,Pend Oreille,Northstar Broadband
+1945,WASHINGTON,Grant,Northland Cable Television
+1946,WASHINGTON,Grant,Northland Cable Television
+1947,WASHINGTON,Grant,Northland Cable Television
+1948,WASHINGTON,Lincoln,Northstar Broadband
+1949,WASHINGTON,Lincoln,Northstar Broadband
+1950,WASHINGTON,Ferry,Television Assn. of Republic
+1951,WASHINGTON,Ferry,Television Assn. of Republic
+1952,WASHINGTON,Snohomish,Tulalip Tribes Broadband
+1953,WASHINGTON,Snohomish,Tulalip Tribes Broadband
+1954,WASHINGTON,Pierce,Click! Network
+1955,WASHINGTON,Pierce,Click! Network
+1956,WASHINGTON,Pierce,Click! Network
+1957,WASHINGTON,Pierce,Click! Network
+1958,WASHINGTON,Pierce,Rainier Cable
+1959,WASHINGTON,Pierce,Rainier Cable
+1960,WISCONSIN,Milwaukee,Time Warner Cable
+1961,WISCONSIN,Milwaukee,Time Warner Cable
+1962,WISCONSIN,Milwaukee,Time Warner Cable
+1963,WISCONSIN,Calumet,Time Warner Cable
+1964,WISCONSIN,Calumet,Time Warner Cable
+1965,WISCONSIN,Calumet,Time Warner Cable
+1966,WISCONSIN,Portage,Charter Communications
+1967,WISCONSIN,Portage,Charter Communications
+1968,WISCONSIN,Manitowoc,Comcast Cable
+1969,WISCONSIN,Manitowoc,Comcast Cable
+1970,WISCONSIN,Manitowoc,Comcast Cable
+1971,WISCONSIN,Trempealeau,Western Wisconsin Communications Cooperative
+1972,WISCONSIN,Trempealeau,Western Wisconsin Communications Cooperative
+1973,WISCONSIN,Trempealeau,Western Wisconsin Communications Cooperative
+1974,WISCONSIN,Trempealeau,Western Wisconsin Communications Cooperative
+1975,WISCONSIN,Vernon,Mediacom
+1976,WISCONSIN,Vernon,Mediacom
+1977,WISCONSIN,Vernon,Mediacom
+1978,WISCONSIN,Vernon,Community Antenna System Inc
+1979,WISCONSIN,Wood,Solarus
+1980,WEST VIRGINIA,Mercer,Comcast Cable
+1981,WEST VIRGINIA,Mercer,Comcast Cable
+1982,WEST VIRGINIA,Mercer,Comcast Cable
+1983,WEST VIRGINIA,Harrison,Time Warner Cable
+1984,WEST VIRGINIA,Harrison,Time Warner Cable
+1985,WEST VIRGINIA,Harrison,Time Warner Cable
+1986,WEST VIRGINIA,Jefferson,Comcast Cable
+1987,WEST VIRGINIA,Jefferson,Comcast Cable
+1988,WEST VIRGINIA,Jefferson,Comcast Cable
+1989,WEST VIRGINIA,Lincoln,Armstrong Cable Services
+1990,WEST VIRGINIA,Lincoln,Armstrong Cable Services
+1991,WEST VIRGINIA,Lincoln,Armstrong Cable Services
+1992,WYOMING,Natrona,Charter Communications
+1993,WYOMING,Natrona,Charter Communications
+1994,WYOMING,Laramie,Charter Communications
+1995,WYOMING,Laramie,Charter Communications
+1996,WYOMING,Sweetwater,Sweetwater Cable TV Co. Inc
+1997,WYOMING,Sweetwater,Sweetwater Cable TV Co. Inc
+1998,WYOMING,Sweetwater,Sweetwater Cable TV Co. Inc
+1999,WYOMING,Sweetwater,Sweetwater Cable TV Co. Inc
+2000,WYOMING,Converse,Vyve Broadband
+2001,WYOMING,Converse,Vyve Broadband
+2002,WYOMING,Converse,Vyve Broadband
+2003,WYOMING,Goshen,Vyve Broadband
+2004,WYOMING,Goshen,Vyve Broadband
+2005,WYOMING,Goshen,Vyve Broadband
+2006,WYOMING,Carbon,Vyve Broadband
+2007,WYOMING,Carbon,Vyve Broadband
+2008,WYOMING,Platte,Vyve Broadband
+2009,WYOMING,Platte,Vyve Broadband
+2010,WYOMING,Platte,Vyve Broadband
+2011,WYOMING,Converse,Vyve Broadband
+2012,WYOMING,Converse,Vyve Broadband
+2013,WYOMING,Converse,Vyve Broadband
+2014,WYOMING,Platte,WinDBreak Cable
+2015,WYOMING,Niobrara,Vyve Broadband
+2016,WYOMING,Niobrara,Vyve Broadband
+2017,WYOMING,Niobrara,Vyve Broadband
+2018,WYOMING,Sheridan,Tongue River Communications
+2019,WYOMING,Laramie,WinDBreak Cable
+2020,WYOMING,Sheridan,Tongue River Communications
+2021,WYOMING,Crook,Tongue River Communications
